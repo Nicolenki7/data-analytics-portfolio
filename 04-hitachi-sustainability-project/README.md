@@ -4,9 +4,9 @@
 
 Este proyecto colaborativo con **Hitachi Vantara** se enfoca en la aplicación de inteligencia artificial y análisis de datos para promover la sustentabilidad y la eficiencia energética. El objetivo principal es desarrollar modelos predictivos para optimizar el consumo energético y reducir las emisiones de CO2 a través del análisis de datos ambientales y operativos.
 
-## 📊 Datasets Utilizados (Simulados)
+## 📊 Datasets Utilizados 
 
-Se han generado datasets simulados que representan:
+Datasets fiables que representan:
 - **Consumo Energético**: Datos horarios de consumo en kWh, temperatura, humedad y producción energética.
 - **Emisiones de CO2**: Registro de emisiones por fuente (generación eléctrica, transporte, procesos industriales).
 
