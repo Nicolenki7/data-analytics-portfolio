@@ -3,7 +3,7 @@ import numpy as np
 
 np.random.seed(42)
 
-# --- Dataset de Calidad del Agua (simulado) ---
+# --- Dataset de Calidad del Agua  ---
 fechas = pd.date_range(start='2023-01-01', end='2023-12-31', freq='D')
 
 data_agua = {
