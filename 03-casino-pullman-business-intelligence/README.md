@@ -61,7 +61,7 @@ Análisis del gasto promedio en el casino según la ciudad de origen de los clie
 - **Pandas**: Manipulación y análisis de datos estructurados.
 - **Matplotlib & Seaborn**: Creación de visualizaciones profesionales para reportes ejecutivos.
 
-## 💡 Insights Clave para Reclutadores
+## 💡 Insights Clave 
 
 - **Business Intelligence**: Demuestra capacidad para transformar datos operativos en insights estratégicos para la toma de decisiones ejecutivas.
 - **Análisis de Gaming**: Competencia específica en el análisis de datos de casinos, incluyendo métricas de rentabilidad por juego y comportamiento del cliente.
