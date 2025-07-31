@@ -1,0 +1,501 @@
+review_id,date,overall_rating,traveler_type,nationality,stay_duration,comments,location_rating,cleanliness_rating,service_rating,value_rating,facilities_rating,comfort_rating
+RV0001,2023-11-24,1,Couple,Portuguese,7,Room could be larger,1,1,2,1,1,1
+RV0002,2023-05-21,5,Couple,German,1,Excellent staff,5,5,4,5,5,5
+RV0003,2023-03-13,3,Couple,French,3,Expensive drinks,3,3,2,3,2,3
+RV0004,2023-10-07,4,Couple,German,4,Good breakfast,5,4,4,4,4,3
+RV0005,2023-08-05,4,Family,Portuguese,6,Great location near the beach,4,4,4,4,5,4
+RV0006,2023-02-17,5,Family,Dutch,5,Excellent staff,4,5,4,5,4,5
+RV0007,2023-09-16,5,Friends,Other,1,Great location near the beach; Good breakfast; Excellent staff,5,5,5,5,4,5
+RV0008,2023-11-29,5,Solo,British,6,Good breakfast; Beautiful pool area; Excellent staff,5,5,5,5,5,5
+RV0009,2023-08-18,2,Couple,German,6,Noise from street; Room could be larger; WiFi issues,1,2,1,3,2,2
+RV0010,2023-12-24,4,Business,Other,3,Clean rooms; Comfortable beds,4,4,3,4,4,4
+RV0011,2023-03-21,5,Business,Portuguese,2,Clean rooms,5,4,5,5,4,4
+RV0012,2023-02-22,4,Friends,Spanish,2,Beautiful pool area,3,3,3,3,3,4
+RV0013,2023-02-19,4,Couple,Portuguese,2,Clean rooms; Good breakfast,5,4,5,5,3,4
+RV0014,2023-05-16,5,Couple,Spanish,3,Comfortable beds,5,5,5,4,5,5
+RV0015,2023-08-24,4,Couple,Dutch,8,Great location near the beach; Beautiful pool area; Comfortable beds,5,4,4,4,4,4
+RV0016,2023-10-10,5,Couple,Spanish,4,Comfortable beds; Good breakfast,5,5,5,5,4,4
+RV0017,2023-07-05,3,Couple,French,4,Slow check-in,3,2,1,3,4,3
+RV0018,2023-02-05,4,Solo,French,5,Comfortable beds,4,4,4,4,4,4
+RV0019,2023-04-27,5,Solo,Dutch,4,Great location near the beach; Excellent staff,5,5,5,5,5,5
+RV0020,2023-02-21,1,Family,Spanish,2,Noise from street; Limited parking,1,1,1,1,1,1
+RV0021,2023-11-22,5,Couple,British,5,Excellent staff; Clean rooms,5,5,5,4,5,5
+RV0022,2023-07-01,2,Couple,Portuguese,3,Slow check-in,1,2,2,2,2,2
+RV0023,2023-05-17,4,Business,French,3,Comfortable beds; Great location near the beach; Excellent staff,4,5,3,4,3,4
+RV0024,2023-10-01,3,Family,British,3,Clean rooms,4,4,3,2,3,3
+RV0025,2023-08-25,5,Couple,Dutch,4,Clean rooms; Good breakfast,5,5,5,5,5,5
+RV0026,2023-04-23,5,Family,Portuguese,1,Clean rooms; Great location near the beach; Excellent staff,5,5,5,5,5,5
+RV0027,2023-01-17,5,Family,Portuguese,4,Beautiful pool area; Clean rooms,5,5,4,5,5,5
+RV0028,2023-02-03,2,Couple,British,4,Expensive drinks,1,2,2,2,2,2
+RV0029,2023-06-11,5,Couple,Portuguese,9,Comfortable beds,5,4,5,5,5,5
+RV0030,2023-09-13,3,Couple,Portuguese,2,Expensive drinks; WiFi issues,4,3,3,4,3,3
+RV0031,2023-03-15,4,Couple,French,5,Excellent staff; Comfortable beds,4,3,4,4,4,4
+RV0032,2023-10-15,2,Solo,Portuguese,7,Noise from street; Expensive drinks; Limited parking,3,2,2,2,2,3
+RV0033,2023-10-26,4,Couple,Portuguese,2,Clean rooms; Excellent staff,4,5,4,5,4,4
+RV0034,2023-03-12,5,Business,Portuguese,10,Beautiful pool area; Great location near the beach; Good breakfast,4,5,5,5,5,5
+RV0035,2023-02-26,5,Business,Spanish,4,Comfortable beds,4,5,5,5,5,5
+RV0036,2023-03-23,4,Family,Other,3,Beautiful pool area; Good breakfast; Great location near the beach,3,5,4,5,3,4
+RV0037,2023-07-17,5,Family,Portuguese,7,Good breakfast; Beautiful pool area,5,5,5,5,5,5
+RV0038,2023-09-28,4,Couple,French,3,Good breakfast; Great location near the beach,3,4,3,4,4,4
+RV0039,2023-12-15,5,Couple,French,5,Great location near the beach; Good breakfast; Clean rooms,4,5,4,5,5,5
+RV0040,2023-11-25,3,Solo,Portuguese,2,Excellent staff; Good breakfast,3,4,4,3,3,4
+RV0041,2023-08-11,4,Family,Portuguese,2,Beautiful pool area,4,4,4,3,4,4
+RV0042,2023-01-02,5,Business,Portuguese,1,Comfortable beds; Clean rooms; Excellent staff,5,5,5,5,4,5
+RV0043,2023-09-17,4,Couple,French,6,Comfortable beds,4,4,4,4,5,4
+RV0044,2023-06-02,5,Friends,French,5,Good breakfast; Comfortable beds; Excellent staff,5,5,5,5,5,5
+RV0045,2023-03-20,3,Business,German,5,Clean rooms; Noise from street,2,4,3,3,4,3
+RV0046,2023-09-29,5,Family,Spanish,2,Good breakfast,4,5,5,5,5,5
+RV0047,2023-06-15,4,Couple,Portuguese,2,Great location near the beach; Comfortable beds,3,3,4,5,3,4
+RV0048,2023-07-05,5,Family,Portuguese,3,Excellent staff; Great location near the beach,5,5,4,5,5,5
+RV0049,2023-05-04,4,Business,Other,1,Great location near the beach; Comfortable beds; Beautiful pool area,5,3,5,4,4,4
+RV0050,2023-02-05,3,Couple,British,3,Clean rooms,3,3,3,3,3,3
+RV0051,2023-12-04,5,Couple,Portuguese,5,Good breakfast; Excellent staff,4,5,5,5,5,4
+RV0052,2023-05-16,3,Family,Portuguese,5,Beautiful pool area; Noise from street,4,3,3,3,4,3
+RV0053,2023-12-20,5,Family,Dutch,7,Comfortable beds,5,5,5,5,5,4
+RV0054,2023-06-09,4,Couple,French,4,Comfortable beds; Clean rooms,4,4,4,4,5,4
+RV0055,2023-08-13,5,Family,Portuguese,3,Beautiful pool area; Great location near the beach; Excellent staff,5,5,5,5,5,5
+RV0056,2023-04-26,5,Business,French,10,Clean rooms,5,5,5,5,4,4
+RV0057,2023-01-11,3,Couple,Portuguese,4,Limited parking,3,3,2,3,2,3
+RV0058,2023-04-23,2,Couple,British,5,Room could be larger,2,2,3,2,2,3
+RV0059,2023-12-29,5,Friends,Portuguese,5,Great location near the beach; Excellent staff; Comfortable beds,5,5,5,5,5,5
+RV0060,2023-01-17,3,Business,Other,3,Excellent staff; Noise from street,3,3,4,3,4,2
+RV0061,2023-05-02,4,Business,Portuguese,6,Comfortable beds; Beautiful pool area,4,4,4,5,4,4
+RV0062,2023-04-20,5,Couple,British,4,Excellent staff; Good breakfast; Beautiful pool area,4,5,5,5,5,5
+RV0063,2023-05-05,5,Friends,Portuguese,6,Beautiful pool area; Excellent staff,5,5,5,5,5,5
+RV0064,2023-02-18,4,Business,British,9,Comfortable beds,4,4,4,4,3,4
+RV0065,2023-08-09,5,Family,British,2,Beautiful pool area; Comfortable beds,5,5,5,5,5,5
+RV0066,2023-08-28,4,Couple,French,3,Great location near the beach; Comfortable beds; Good breakfast,4,4,3,4,3,4
+RV0067,2023-07-26,5,Couple,British,2,Clean rooms; Great location near the beach; Excellent staff,5,5,5,5,5,5
+RV0068,2023-04-09,5,Family,Portuguese,7,Good breakfast,5,5,4,5,5,5
+RV0069,2023-08-18,4,Couple,British,4,Beautiful pool area,4,3,5,4,4,4
+RV0070,2023-04-04,1,Family,German,6,Limited parking; WiFi issues,1,1,1,1,1,1
+RV0071,2023-02-08,3,Couple,German,6,Noise from street; Excellent staff,2,3,4,3,2,3
+RV0072,2023-01-26,5,Family,French,7,Good breakfast; Great location near the beach; Comfortable beds,5,4,4,5,5,5
+RV0073,2023-05-02,5,Business,Portuguese,2,Beautiful pool area,5,5,4,5,5,5
+RV0074,2023-09-06,5,Couple,Portuguese,2,Excellent staff; Beautiful pool area,5,5,5,4,5,5
+RV0075,2023-01-31,5,Couple,French,6,Beautiful pool area,5,5,5,5,4,5
+RV0076,2023-01-02,5,Business,Portuguese,3,Clean rooms; Beautiful pool area,5,5,5,5,5,5
+RV0077,2023-05-27,5,Couple,Portuguese,2,Comfortable beds; Good breakfast,5,4,4,4,5,5
+RV0078,2023-12-05,5,Family,Dutch,5,Beautiful pool area; Excellent staff; Good breakfast,4,5,5,5,5,5
+RV0079,2023-06-01,5,Business,Spanish,3,Great location near the beach,4,5,5,5,5,5
+RV0080,2023-10-24,4,Family,French,7,Good breakfast; Great location near the beach; Clean rooms,4,4,5,5,3,4
+RV0081,2023-01-30,5,Friends,Portuguese,4,Good breakfast,5,5,5,5,5,5
+RV0082,2023-09-02,5,Business,German,1,Good breakfast; Excellent staff; Great location near the beach,5,4,5,5,5,4
+RV0083,2023-09-18,5,Business,Dutch,4,Excellent staff,4,4,5,5,5,4
+RV0084,2023-02-05,4,Family,French,2,Great location near the beach; Excellent staff; Beautiful pool area,5,4,5,4,4,4
+RV0085,2023-03-03,5,Solo,German,2,Excellent staff; Good breakfast; Great location near the beach,5,5,5,5,5,5
+RV0086,2023-11-14,2,Couple,British,4,Limited parking,3,2,2,2,1,2
+RV0087,2023-12-03,3,Business,Portuguese,4,Good breakfast; Beautiful pool area,3,2,3,3,4,2
+RV0088,2023-12-09,5,Couple,Portuguese,6,Clean rooms; Excellent staff; Comfortable beds,5,4,4,5,4,4
+RV0089,2023-07-22,4,Solo,German,4,Comfortable beds,3,4,5,4,4,4
+RV0090,2023-11-27,3,Couple,French,2,WiFi issues; Comfortable beds,3,3,2,3,3,3
+RV0091,2023-02-07,5,Couple,British,6,Beautiful pool area,5,5,5,5,5,5
+RV0092,2023-11-15,4,Solo,Portuguese,5,Great location near the beach; Comfortable beds; Excellent staff,4,4,4,3,3,3
+RV0093,2023-09-17,5,Friends,British,5,Excellent staff; Clean rooms,5,5,5,5,5,5
+RV0094,2023-02-05,3,Couple,Portuguese,3,Comfortable beds,2,4,3,3,3,3
+RV0095,2023-05-26,5,Couple,German,4,Beautiful pool area,5,5,5,5,5,5
+RV0096,2023-10-06,3,Family,Spanish,4,Limited parking; Expensive drinks,3,4,4,2,3,3
+RV0097,2023-09-28,2,Family,Portuguese,7,Slow check-in,2,2,2,2,3,2
+RV0098,2023-10-11,5,Friends,German,4,Comfortable beds; Great location near the beach,5,5,5,5,5,5
+RV0099,2023-03-10,3,Business,German,5,Excellent staff; Slow check-in,4,3,4,3,2,3
+RV0100,2023-10-11,5,Couple,Dutch,7,Clean rooms,5,5,4,5,5,5
+RV0101,2023-05-25,4,Family,Portuguese,7,Excellent staff; Clean rooms; Comfortable beds,4,4,4,4,4,3
+RV0102,2023-12-18,5,Couple,Dutch,4,Clean rooms; Good breakfast; Beautiful pool area,5,5,5,5,5,5
+RV0103,2023-05-09,3,Solo,Spanish,4,Excellent staff,3,3,4,3,3,3
+RV0104,2023-11-21,5,Solo,British,2,Clean rooms; Great location near the beach,5,4,5,5,5,4
+RV0105,2023-01-02,5,Family,British,6,Excellent staff; Clean rooms,5,5,5,4,5,5
+RV0106,2023-03-24,4,Couple,Portuguese,7,Beautiful pool area; Good breakfast; Comfortable beds,4,4,4,4,5,3
+RV0107,2023-10-15,4,Couple,Portuguese,3,Great location near the beach,4,4,5,5,3,4
+RV0108,2023-02-08,5,Family,Portuguese,4,Excellent staff; Good breakfast; Great location near the beach,5,5,4,5,5,5
+RV0109,2023-07-09,4,Couple,Spanish,7,Good breakfast; Excellent staff; Beautiful pool area,4,5,4,4,4,4
+RV0110,2023-03-07,4,Couple,Dutch,2,Clean rooms,4,4,4,4,4,4
+RV0111,2023-07-06,5,Couple,Spanish,1,Clean rooms,5,5,4,5,4,5
+RV0112,2023-04-18,5,Couple,German,10,Excellent staff; Great location near the beach; Clean rooms,5,5,5,5,5,5
+RV0113,2023-10-14,5,Solo,Dutch,4,Good breakfast; Excellent staff,5,5,5,5,5,5
+RV0114,2023-05-02,4,Family,French,5,Excellent staff,3,4,5,4,4,4
+RV0115,2023-07-31,5,Business,Other,5,Excellent staff,4,5,5,5,5,4
+RV0116,2023-06-20,5,Couple,Portuguese,3,Comfortable beds; Excellent staff,5,5,5,5,5,4
+RV0117,2023-05-17,5,Family,Portuguese,1,Comfortable beds,5,4,5,4,5,5
+RV0118,2023-02-25,3,Couple,Portuguese,5,Great location near the beach; WiFi issues,4,3,3,4,3,3
+RV0119,2023-04-24,3,Couple,British,4,WiFi issues,3,2,3,4,3,3
+RV0120,2023-06-29,5,Business,Portuguese,3,Excellent staff; Comfortable beds,5,5,5,5,5,5
+RV0121,2023-01-13,4,Business,French,3,Excellent staff; Beautiful pool area; Clean rooms,4,4,5,4,4,4
+RV0122,2023-05-23,5,Couple,Portuguese,4,Clean rooms,5,5,5,5,5,5
+RV0123,2023-06-29,4,Solo,French,4,Good breakfast; Beautiful pool area; Clean rooms,5,4,3,4,4,5
+RV0124,2023-01-15,5,Solo,Other,4,Clean rooms,5,4,5,5,5,5
+RV0125,2023-04-02,4,Couple,British,2,Clean rooms; Great location near the beach; Good breakfast,3,5,5,4,4,5
+RV0126,2023-11-02,5,Couple,British,3,Clean rooms; Comfortable beds,5,5,5,5,4,5
+RV0127,2023-08-12,5,Couple,German,8,Good breakfast; Great location near the beach; Beautiful pool area,4,5,5,5,5,4
+RV0128,2023-10-23,4,Solo,French,6,Clean rooms,3,4,3,4,4,4
+RV0129,2023-01-23,5,Family,Spanish,6,Beautiful pool area; Great location near the beach; Excellent staff,4,4,5,4,5,4
+RV0130,2023-07-06,4,Couple,German,2,Great location near the beach; Clean rooms,3,4,3,4,4,4
+RV0131,2023-11-16,4,Couple,British,1,Comfortable beds; Great location near the beach,4,5,4,4,5,5
+RV0132,2023-06-03,4,Business,British,7,Clean rooms; Beautiful pool area; Comfortable beds,3,4,4,5,4,4
+RV0133,2023-07-26,5,Couple,British,3,Clean rooms; Good breakfast; Excellent staff,5,4,5,5,5,5
+RV0134,2023-04-09,5,Business,German,8,Comfortable beds; Beautiful pool area,5,4,5,5,5,5
+RV0135,2023-12-13,3,Friends,Portuguese,4,Limited parking,4,3,3,4,4,3
+RV0136,2023-10-19,5,Couple,Portuguese,8,Beautiful pool area; Good breakfast,5,5,5,5,5,5
+RV0137,2023-01-01,1,Business,French,6,Noise from street; WiFi issues,1,1,1,1,1,1
+RV0138,2023-08-09,5,Couple,British,2,Good breakfast; Clean rooms; Beautiful pool area,5,5,5,5,4,4
+RV0139,2023-08-15,5,Business,Portuguese,2,Comfortable beds; Excellent staff,5,5,5,5,5,5
+RV0140,2023-09-19,4,Friends,British,4,Comfortable beds; Excellent staff,4,4,4,4,4,4
+RV0141,2023-12-04,4,Solo,German,4,Clean rooms,4,4,3,5,4,4
+RV0142,2023-09-21,5,Solo,German,4,Comfortable beds; Good breakfast; Clean rooms,5,5,4,5,5,5
+RV0143,2023-02-17,3,Couple,Spanish,3,Expensive drinks,3,3,2,3,3,3
+RV0144,2023-06-08,1,Couple,British,3,WiFi issues,1,1,1,1,1,2
+RV0145,2023-03-17,5,Friends,Portuguese,5,Great location near the beach,5,5,5,5,5,5
+RV0146,2023-05-06,4,Business,Other,5,Good breakfast; Great location near the beach,5,3,4,4,4,4
+RV0147,2023-08-22,4,Family,British,4,Comfortable beds; Good breakfast,4,4,4,4,4,4
+RV0148,2023-04-10,3,Business,German,7,WiFi issues; Room could be larger,2,2,4,3,3,3
+RV0149,2023-05-05,3,Couple,French,3,Expensive drinks,3,4,3,3,4,3
+RV0150,2023-12-19,5,Solo,Portuguese,3,Great location near the beach,5,5,5,4,4,5
+RV0151,2023-08-06,4,Family,Other,4,Excellent staff,4,3,4,3,4,4
+RV0152,2023-12-23,5,Couple,Portuguese,3,Beautiful pool area; Great location near the beach; Excellent staff,5,5,5,5,5,5
+RV0153,2023-03-04,5,Family,British,3,Excellent staff; Beautiful pool area,4,5,5,4,5,5
+RV0154,2023-12-08,2,Friends,Other,6,Expensive drinks; Slow check-in; Noise from street,2,2,3,2,2,2
+RV0155,2023-08-15,5,Couple,French,6,Comfortable beds; Good breakfast; Beautiful pool area,5,5,5,5,5,5
+RV0156,2023-10-08,5,Couple,Other,3,Excellent staff; Beautiful pool area,5,5,4,5,4,5
+RV0157,2023-08-19,4,Couple,German,5,Excellent staff; Clean rooms,4,4,3,4,4,4
+RV0158,2023-09-24,3,Couple,British,3,Expensive drinks; Beautiful pool area,3,3,4,2,3,3
+RV0159,2023-05-21,2,Family,Portuguese,5,Room could be larger; Noise from street,2,2,2,2,2,1
+RV0160,2023-05-01,5,Business,Portuguese,5,Clean rooms; Comfortable beds,5,5,5,5,5,4
+RV0161,2023-10-04,5,Couple,French,3,Excellent staff,5,4,5,5,5,5
+RV0162,2023-03-19,4,Business,Portuguese,3,Beautiful pool area,4,4,4,4,4,4
+RV0163,2023-12-22,4,Couple,Spanish,3,Comfortable beds,3,3,4,4,4,4
+RV0164,2023-04-20,4,Couple,Portuguese,2,Beautiful pool area,5,3,4,4,3,4
+RV0165,2023-07-28,5,Couple,Dutch,8,Good breakfast; Beautiful pool area,4,5,5,5,5,5
+RV0166,2023-08-01,5,Couple,British,7,Excellent staff,5,5,5,3,5,4
+RV0167,2023-08-04,3,Business,Spanish,5,Limited parking; Great location near the beach,3,3,4,3,3,3
+RV0168,2023-10-22,3,Couple,Other,3,WiFi issues; Great location near the beach,3,4,3,2,3,2
+RV0169,2023-06-30,4,Couple,British,5,Beautiful pool area; Comfortable beds,3,4,5,4,4,5
+RV0170,2023-10-03,5,Family,French,2,Comfortable beds; Good breakfast; Excellent staff,5,4,5,4,5,5
+RV0171,2023-09-07,5,Couple,German,4,Clean rooms,5,5,4,5,5,5
+RV0172,2023-08-12,4,Solo,British,6,Great location near the beach; Beautiful pool area,5,4,4,4,5,4
+RV0173,2023-06-22,3,Family,British,2,Slow check-in; Clean rooms,2,2,4,3,3,3
+RV0174,2023-08-28,5,Solo,German,8,Good breakfast,5,5,5,5,5,4
+RV0175,2023-10-01,2,Couple,Portuguese,7,Limited parking,3,2,2,2,2,3
+RV0176,2023-10-31,3,Family,German,6,Excellent staff,2,2,3,3,3,3
+RV0177,2023-11-26,5,Couple,Spanish,4,Excellent staff; Beautiful pool area,5,5,4,4,5,4
+RV0178,2023-04-04,2,Couple,Other,5,Noise from street,2,2,3,2,2,2
+RV0179,2023-07-14,5,Couple,British,9,Excellent staff; Beautiful pool area,4,5,5,5,5,5
+RV0180,2023-06-17,2,Couple,British,3,Limited parking; Noise from street,1,2,3,2,2,3
+RV0181,2023-08-04,3,Couple,Portuguese,8,Excellent staff; WiFi issues,2,3,3,2,3,3
+RV0182,2023-01-10,4,Family,British,3,Good breakfast; Great location near the beach; Clean rooms,4,4,5,5,5,5
+RV0183,2023-04-25,5,Couple,German,3,Great location near the beach; Comfortable beds; Good breakfast,5,5,5,5,5,5
+RV0184,2023-05-07,4,Business,Other,4,Great location near the beach,4,4,4,4,4,4
+RV0185,2023-11-15,4,Couple,French,2,Excellent staff,5,4,4,4,5,5
+RV0186,2023-03-06,3,Family,French,2,Expensive drinks; Excellent staff,3,3,3,3,4,3
+RV0187,2023-10-16,5,Business,German,2,Beautiful pool area,5,5,4,5,5,5
+RV0188,2023-12-25,4,Business,Spanish,4,Clean rooms; Excellent staff,4,4,3,4,4,4
+RV0189,2023-11-07,5,Couple,Dutch,3,Comfortable beds; Great location near the beach; Excellent staff,5,4,4,4,5,5
+RV0190,2023-06-09,4,Family,French,3,Good breakfast,4,4,4,4,4,4
+RV0191,2023-01-14,3,Couple,British,3,Limited parking; Expensive drinks,3,2,3,3,3,3
+RV0192,2023-07-12,4,Friends,Other,3,Comfortable beds; Excellent staff,3,4,5,4,4,5
+RV0193,2023-02-08,4,Solo,French,6,Comfortable beds; Excellent staff; Great location near the beach,4,4,5,3,3,4
+RV0194,2023-12-23,5,Business,Portuguese,2,Comfortable beds; Good breakfast,5,5,4,5,5,5
+RV0195,2023-03-03,3,Couple,German,5,Comfortable beds,3,4,3,3,3,3
+RV0196,2023-09-30,4,Family,British,4,Comfortable beds; Clean rooms,4,4,4,4,4,4
+RV0197,2023-02-05,4,Family,German,2,Comfortable beds; Clean rooms; Great location near the beach,5,5,4,3,5,4
+RV0198,2023-08-04,5,Solo,Portuguese,4,Great location near the beach; Beautiful pool area,5,5,5,5,5,4
+RV0199,2023-07-05,4,Couple,Spanish,4,Beautiful pool area; Excellent staff; Comfortable beds,4,4,5,4,3,4
+RV0200,2023-04-01,5,Couple,Dutch,7,Good breakfast; Clean rooms; Beautiful pool area,5,5,4,5,5,5
+RV0201,2023-08-27,4,Couple,French,2,Comfortable beds; Good breakfast,4,4,4,4,4,4
+RV0202,2023-05-18,4,Couple,British,4,Excellent staff; Great location near the beach,4,5,3,4,3,3
+RV0203,2023-05-23,5,Couple,Spanish,4,Excellent staff; Beautiful pool area,5,5,5,5,5,5
+RV0204,2023-10-19,5,Business,Portuguese,2,Comfortable beds; Beautiful pool area; Clean rooms,5,5,4,5,5,5
+RV0205,2023-01-15,5,Family,French,2,Clean rooms; Excellent staff,5,5,5,5,5,5
+RV0206,2023-09-07,4,Family,Other,4,Clean rooms,4,4,4,3,4,4
+RV0207,2023-05-13,3,Couple,French,3,Good breakfast; Limited parking,3,3,4,3,4,3
+RV0208,2023-12-26,5,Family,British,5,Good breakfast; Great location near the beach,4,5,5,5,4,5
+RV0209,2023-09-22,5,Couple,Portuguese,7,Great location near the beach,5,5,5,5,5,5
+RV0210,2023-05-04,4,Friends,Dutch,6,Beautiful pool area; Comfortable beds; Excellent staff,4,4,3,5,4,4
+RV0211,2023-12-20,4,Friends,Portuguese,1,Comfortable beds; Beautiful pool area,4,4,5,4,4,4
+RV0212,2023-08-18,4,Couple,Spanish,5,Great location near the beach,5,4,3,4,3,4
+RV0213,2023-05-31,5,Friends,Spanish,4,Beautiful pool area,5,5,5,5,5,5
+RV0214,2023-12-21,5,Family,Portuguese,10,Clean rooms,4,5,5,5,5,5
+RV0215,2023-12-06,5,Business,French,3,Clean rooms; Beautiful pool area; Comfortable beds,5,5,5,5,5,5
+RV0216,2023-08-06,5,Couple,French,4,Good breakfast; Clean rooms; Comfortable beds,5,4,5,5,4,5
+RV0217,2023-12-26,3,Business,Dutch,6,Good breakfast; Slow check-in,3,4,3,3,3,4
+RV0218,2023-05-09,5,Friends,German,4,Great location near the beach,5,5,4,5,4,5
+RV0219,2023-04-09,4,Couple,Dutch,7,Great location near the beach; Good breakfast,4,4,4,4,4,4
+RV0220,2023-12-20,3,Couple,British,2,Beautiful pool area,3,3,3,3,4,3
+RV0221,2023-04-21,5,Family,British,2,Beautiful pool area; Clean rooms; Good breakfast,5,5,5,5,5,5
+RV0222,2023-02-21,3,Couple,British,3,Good breakfast,2,3,3,4,2,3
+RV0223,2023-04-27,5,Family,Spanish,2,Excellent staff; Clean rooms,5,5,5,5,4,5
+RV0224,2023-01-08,5,Family,British,6,Good breakfast; Excellent staff; Clean rooms,4,5,4,5,5,5
+RV0225,2023-01-24,2,Solo,British,4,Expensive drinks,1,1,2,3,3,2
+RV0226,2023-05-30,5,Solo,British,7,Excellent staff; Beautiful pool area; Great location near the beach,4,5,5,5,3,4
+RV0227,2023-01-07,4,Family,German,5,Clean rooms; Beautiful pool area; Good breakfast,4,3,4,4,4,3
+RV0228,2023-08-14,4,Couple,Portuguese,2,Excellent staff; Great location near the beach,3,4,4,4,3,4
+RV0229,2023-05-10,5,Business,British,2,Great location near the beach; Comfortable beds,5,5,5,5,5,5
+RV0230,2023-07-25,4,Solo,Portuguese,3,Great location near the beach; Good breakfast,4,4,4,4,4,4
+RV0231,2023-11-19,1,Couple,Portuguese,4,Room could be larger; WiFi issues; Expensive drinks,1,1,2,1,1,1
+RV0232,2023-10-16,5,Couple,German,4,Great location near the beach; Excellent staff,5,5,5,5,5,5
+RV0233,2023-03-02,5,Friends,German,4,Beautiful pool area; Good breakfast; Excellent staff,5,5,5,4,5,5
+RV0234,2023-09-25,2,Couple,Spanish,2,Limited parking; Slow check-in,2,2,3,2,1,2
+RV0235,2023-06-02,5,Couple,Spanish,3,Beautiful pool area; Clean rooms; Great location near the beach,5,5,5,5,5,5
+RV0236,2023-11-09,5,Couple,British,1,Great location near the beach; Excellent staff; Good breakfast,5,5,5,5,5,5
+RV0237,2023-05-16,5,Solo,Other,7,Great location near the beach; Excellent staff; Good breakfast,5,5,5,4,4,5
+RV0238,2023-03-30,5,Couple,British,3,Great location near the beach; Excellent staff; Comfortable beds,5,5,5,5,4,4
+RV0239,2023-07-29,4,Family,Portuguese,4,Comfortable beds; Good breakfast,4,3,3,4,4,4
+RV0240,2023-08-29,5,Couple,Portuguese,3,Great location near the beach; Excellent staff,5,5,5,5,5,5
+RV0241,2023-05-28,5,Couple,Portuguese,3,Clean rooms; Beautiful pool area; Great location near the beach,4,4,5,5,4,5
+RV0242,2023-12-18,4,Family,Portuguese,2,Clean rooms,4,5,4,3,4,3
+RV0243,2023-11-17,4,Solo,British,3,Comfortable beds; Excellent staff; Beautiful pool area,4,4,4,5,5,4
+RV0244,2023-02-28,1,Friends,Portuguese,2,WiFi issues; Slow check-in; Noise from street,1,1,1,1,1,1
+RV0245,2023-03-14,5,Couple,Portuguese,2,Great location near the beach,5,5,4,5,5,5
+RV0246,2023-03-26,5,Solo,Dutch,4,Good breakfast; Comfortable beds,4,5,4,5,4,5
+RV0247,2023-05-28,4,Family,Dutch,3,Great location near the beach; Beautiful pool area,5,4,3,4,4,4
+RV0248,2023-12-19,4,Couple,Other,5,Comfortable beds; Beautiful pool area,4,4,4,3,4,4
+RV0249,2023-05-20,4,Family,French,2,Good breakfast; Beautiful pool area; Comfortable beds,4,4,3,4,4,4
+RV0250,2023-02-11,4,Family,British,6,Great location near the beach; Beautiful pool area; Clean rooms,4,4,4,4,4,4
+RV0251,2023-11-06,5,Business,French,2,Great location near the beach; Comfortable beds,4,5,5,5,4,4
+RV0252,2023-04-28,4,Couple,German,5,Good breakfast; Comfortable beds; Great location near the beach,4,4,3,4,4,5
+RV0253,2023-12-11,5,Family,French,4,Good breakfast; Great location near the beach,5,5,5,5,5,5
+RV0254,2023-03-31,5,Couple,Other,3,Good breakfast; Beautiful pool area,5,5,5,5,5,5
+RV0255,2023-05-23,5,Couple,Portuguese,9,Good breakfast,5,4,5,4,5,5
+RV0256,2023-08-12,5,Couple,Other,1,Beautiful pool area; Great location near the beach; Comfortable beds,5,5,5,4,5,5
+RV0257,2023-06-28,5,Family,British,2,Clean rooms; Comfortable beds,5,5,5,4,5,4
+RV0258,2023-12-10,3,Couple,Portuguese,6,Clean rooms,4,3,3,3,2,3
+RV0259,2023-06-18,5,Couple,Portuguese,4,Comfortable beds; Beautiful pool area,5,5,5,5,5,5
+RV0260,2023-05-28,1,Family,British,5,Limited parking; Expensive drinks; Room could be larger,1,2,1,1,1,1
+RV0261,2023-08-21,4,Solo,Portuguese,3,Clean rooms,4,4,4,4,5,4
+RV0262,2023-05-10,5,Family,British,3,Great location near the beach; Beautiful pool area,4,5,5,5,5,5
+RV0263,2023-09-21,4,Couple,British,4,Comfortable beds,4,3,4,4,4,4
+RV0264,2023-10-05,5,Solo,British,3,Beautiful pool area; Great location near the beach,5,5,5,4,5,5
+RV0265,2023-04-07,4,Couple,Spanish,3,Clean rooms; Good breakfast; Beautiful pool area,4,3,4,4,4,5
+RV0266,2023-11-17,5,Couple,German,5,Great location near the beach; Excellent staff,5,5,5,5,5,5
+RV0267,2023-05-17,4,Family,Spanish,1,Excellent staff; Clean rooms; Beautiful pool area,3,4,5,4,4,4
+RV0268,2023-12-24,5,Business,German,5,Great location near the beach; Comfortable beds,5,5,5,5,5,5
+RV0269,2023-11-19,5,Couple,French,5,Excellent staff; Comfortable beds; Clean rooms,4,5,5,5,5,4
+RV0270,2023-10-10,3,Family,Portuguese,2,Noise from street,4,3,3,2,3,3
+RV0271,2023-07-28,4,Business,Other,2,Excellent staff,4,4,5,3,4,4
+RV0272,2023-02-28,5,Couple,Other,4,Great location near the beach; Excellent staff,5,5,5,5,5,5
+RV0273,2023-09-13,3,Business,French,8,Noise from street; Good breakfast,3,4,4,3,3,3
+RV0274,2023-08-01,4,Family,British,2,Beautiful pool area; Excellent staff,4,3,5,5,5,3
+RV0275,2023-08-22,3,Couple,French,3,Room could be larger,3,3,4,3,3,3
+RV0276,2023-04-08,4,Couple,French,3,Good breakfast; Excellent staff; Great location near the beach,4,4,4,5,4,4
+RV0277,2023-05-22,4,Friends,German,6,Clean rooms; Good breakfast,4,4,4,4,5,4
+RV0278,2023-05-17,4,Family,Portuguese,4,Clean rooms,4,3,5,5,4,4
+RV0279,2023-06-02,5,Couple,Portuguese,3,Good breakfast; Beautiful pool area; Excellent staff,5,5,5,5,5,5
+RV0280,2023-08-17,4,Family,Portuguese,2,Beautiful pool area; Clean rooms; Good breakfast,5,4,4,4,5,4
+RV0281,2023-10-10,3,Couple,British,5,WiFi issues; Comfortable beds,4,4,3,2,4,3
+RV0282,2023-04-07,5,Couple,French,4,Excellent staff; Good breakfast; Beautiful pool area,5,5,5,5,5,5
+RV0283,2023-04-30,4,Couple,Spanish,4,Great location near the beach; Clean rooms,4,4,4,5,5,3
+RV0284,2023-08-31,4,Family,Portuguese,5,Beautiful pool area; Comfortable beds; Excellent staff,4,4,4,4,4,4
+RV0285,2023-09-11,5,Couple,French,4,Excellent staff,4,5,5,5,5,5
+RV0286,2023-09-15,5,Couple,Portuguese,3,Clean rooms; Great location near the beach; Beautiful pool area,5,5,5,5,4,5
+RV0287,2023-02-21,3,Family,British,6,Great location near the beach; Clean rooms,3,3,3,3,3,3
+RV0288,2023-07-29,4,Couple,British,4,Excellent staff; Great location near the beach; Beautiful pool area,4,4,4,4,4,4
+RV0289,2023-05-16,3,Business,British,8,Limited parking; Room could be larger,4,3,3,3,4,3
+RV0290,2023-11-29,3,Friends,French,4,Comfortable beds,3,3,3,3,4,3
+RV0291,2023-12-12,5,Couple,German,7,Beautiful pool area; Clean rooms; Comfortable beds,5,5,5,4,4,5
+RV0292,2023-10-05,4,Family,Dutch,5,Good breakfast,4,3,4,5,5,4
+RV0293,2023-02-05,5,Family,German,2,Comfortable beds,4,5,5,5,4,5
+RV0294,2023-12-17,2,Family,Portuguese,2,WiFi issues; Room could be larger,3,2,1,2,2,2
+RV0295,2023-08-11,3,Solo,Portuguese,4,Expensive drinks,3,3,3,2,2,3
+RV0296,2023-12-27,2,Couple,Portuguese,1,Limited parking,2,2,3,2,2,2
+RV0297,2023-03-27,3,Couple,Other,5,Great location near the beach; Slow check-in,4,3,3,3,2,3
+RV0298,2023-06-16,5,Family,British,1,Clean rooms,5,4,5,5,4,5
+RV0299,2023-07-03,4,Couple,Portuguese,6,Beautiful pool area; Excellent staff,4,4,4,5,3,4
+RV0300,2023-05-06,5,Solo,Portuguese,3,Beautiful pool area; Good breakfast; Excellent staff,4,5,5,4,5,5
+RV0301,2023-03-29,4,Solo,Dutch,2,Great location near the beach,4,5,4,5,5,4
+RV0302,2023-11-09,5,Couple,French,3,Good breakfast; Excellent staff,5,4,4,5,5,5
+RV0303,2023-09-12,3,Family,Portuguese,4,Beautiful pool area,4,2,2,3,4,2
+RV0304,2023-08-25,4,Business,German,6,Clean rooms; Beautiful pool area; Comfortable beds,3,4,5,4,3,4
+RV0305,2023-12-08,5,Family,British,1,Beautiful pool area,5,5,5,5,5,4
+RV0306,2023-05-28,4,Family,German,4,Good breakfast; Excellent staff; Great location near the beach,4,4,4,4,4,4
+RV0307,2023-08-15,4,Family,Spanish,7,Good breakfast; Clean rooms,4,4,4,4,5,4
+RV0308,2023-11-24,5,Family,British,5,Comfortable beds; Clean rooms,5,5,5,5,5,4
+RV0309,2023-08-22,3,Business,Other,1,Beautiful pool area; Room could be larger,2,3,3,2,4,4
+RV0310,2023-09-05,3,Friends,Spanish,3,Beautiful pool area,3,3,4,3,3,3
+RV0311,2023-07-15,5,Business,Portuguese,6,Clean rooms; Good breakfast; Comfortable beds,5,5,5,5,5,5
+RV0312,2023-12-25,5,Business,French,8,Great location near the beach; Beautiful pool area,5,4,5,5,5,5
+RV0313,2023-05-21,4,Couple,British,5,Good breakfast,4,4,4,5,4,3
+RV0314,2023-12-18,5,Couple,Spanish,7,Great location near the beach; Good breakfast; Beautiful pool area,5,4,5,5,5,5
+RV0315,2023-05-27,5,Couple,Spanish,7,Good breakfast,4,4,5,5,5,5
+RV0316,2023-06-30,4,Family,French,4,Comfortable beds,4,4,4,4,3,5
+RV0317,2023-04-08,3,Solo,Other,3,Expensive drinks; Slow check-in,3,3,3,3,4,3
+RV0318,2023-12-15,5,Couple,Portuguese,5,Comfortable beds,5,5,5,5,5,5
+RV0319,2023-02-19,4,Business,German,5,Comfortable beds; Great location near the beach; Clean rooms,4,5,4,4,3,4
+RV0320,2023-08-14,4,Business,British,7,Good breakfast,4,4,4,4,4,4
+RV0321,2023-07-06,5,Couple,Other,3,Excellent staff; Great location near the beach; Clean rooms,5,5,5,5,4,5
+RV0322,2023-06-17,5,Couple,British,4,Beautiful pool area; Excellent staff; Good breakfast,4,5,5,5,5,5
+RV0323,2023-03-09,4,Family,British,4,Clean rooms; Good breakfast; Comfortable beds,4,5,3,4,4,4
+RV0324,2023-03-26,5,Business,German,3,Beautiful pool area; Clean rooms,5,5,5,5,4,5
+RV0325,2023-06-23,5,Couple,Other,6,Beautiful pool area,5,5,5,5,4,5
+RV0326,2023-02-08,5,Couple,British,5,Excellent staff,5,5,5,5,5,4
+RV0327,2023-12-13,5,Family,Dutch,7,Comfortable beds; Beautiful pool area; Clean rooms,5,5,5,5,5,5
+RV0328,2023-02-16,1,Friends,Dutch,2,Room could be larger; Noise from street,1,2,1,1,1,1
+RV0329,2023-10-02,5,Couple,Portuguese,2,Beautiful pool area,4,5,5,5,4,5
+RV0330,2023-07-08,4,Couple,Portuguese,8,Comfortable beds; Clean rooms; Beautiful pool area,4,3,4,4,4,4
+RV0331,2023-11-23,2,Family,Portuguese,2,Room could be larger; WiFi issues,1,1,2,2,2,2
+RV0332,2023-08-30,5,Solo,Portuguese,4,Good breakfast,5,5,5,5,5,5
+RV0333,2023-10-15,5,Couple,French,2,Good breakfast; Excellent staff,5,5,5,4,5,4
+RV0334,2023-11-28,4,Couple,British,4,Comfortable beds,5,4,4,5,4,3
+RV0335,2023-08-26,2,Couple,Other,3,Noise from street; Limited parking; Room could be larger,2,2,2,2,2,2
+RV0336,2023-03-13,5,Solo,Portuguese,3,Great location near the beach,5,4,5,5,5,5
+RV0337,2023-06-05,4,Couple,Portuguese,3,Great location near the beach; Comfortable beds,3,5,4,3,4,5
+RV0338,2023-05-01,4,Family,Spanish,2,Excellent staff; Beautiful pool area; Good breakfast,5,5,4,5,4,4
+RV0339,2023-07-09,3,Couple,British,2,Limited parking; Clean rooms,3,3,2,4,3,3
+RV0340,2023-08-01,3,Couple,Other,3,WiFi issues,3,3,2,3,3,3
+RV0341,2023-11-12,5,Friends,British,3,Clean rooms; Great location near the beach,5,5,5,5,5,5
+RV0342,2023-12-20,5,Couple,Spanish,7,Excellent staff; Beautiful pool area,5,5,5,5,5,4
+RV0343,2023-08-16,4,Family,Spanish,6,Clean rooms,4,4,4,3,4,4
+RV0344,2023-02-20,4,Business,Spanish,6,Clean rooms; Good breakfast; Comfortable beds,5,4,5,4,4,4
+RV0345,2023-02-01,4,Family,Portuguese,5,Clean rooms; Excellent staff,4,4,4,5,4,5
+RV0346,2023-03-04,4,Solo,German,5,Great location near the beach; Excellent staff,4,4,4,5,4,3
+RV0347,2023-11-25,4,Couple,Spanish,5,Good breakfast; Great location near the beach; Comfortable beds,3,4,4,3,4,5
+RV0348,2023-06-20,5,Family,British,4,Excellent staff,4,5,5,5,5,5
+RV0349,2023-10-17,5,Family,Portuguese,5,Great location near the beach,5,5,5,5,5,5
+RV0350,2023-10-11,4,Family,Other,5,Good breakfast,3,4,4,3,4,4
+RV0351,2023-04-21,5,Family,Portuguese,3,Clean rooms,4,5,5,5,5,5
+RV0352,2023-03-17,5,Family,German,4,Great location near the beach; Clean rooms; Excellent staff,5,5,4,5,5,5
+RV0353,2023-03-08,4,Business,British,3,Clean rooms; Excellent staff; Great location near the beach,3,4,4,4,4,4
+RV0354,2023-12-05,4,Couple,German,3,Excellent staff,4,4,4,4,5,4
+RV0355,2023-01-08,5,Couple,German,4,Excellent staff; Good breakfast,5,5,5,5,5,5
+RV0356,2023-06-15,3,Couple,Portuguese,2,Clean rooms,3,3,4,3,3,3
+RV0357,2023-05-16,5,Family,German,3,Excellent staff,5,5,5,4,5,5
+RV0358,2023-08-04,4,Business,British,5,Great location near the beach; Comfortable beds; Beautiful pool area,4,4,4,4,4,5
+RV0359,2023-08-18,4,Family,German,3,Good breakfast; Comfortable beds,5,4,4,3,4,4
+RV0360,2023-02-25,4,Couple,French,8,Good breakfast; Excellent staff,4,5,4,4,5,3
+RV0361,2023-11-11,5,Solo,French,2,Comfortable beds,5,4,5,5,5,5
+RV0362,2023-12-04,4,Couple,French,1,Clean rooms; Beautiful pool area; Great location near the beach,4,5,4,4,4,5
+RV0363,2023-02-01,4,Family,Portuguese,1,Beautiful pool area; Comfortable beds,3,4,4,4,4,5
+RV0364,2023-12-18,4,Solo,Portuguese,8,Beautiful pool area,4,4,4,4,4,4
+RV0365,2023-12-31,5,Business,Spanish,7,Great location near the beach; Comfortable beds,5,5,5,5,5,4
+RV0366,2023-06-14,3,Friends,French,5,Excellent staff,3,3,3,3,3,2
+RV0367,2023-03-06,5,Business,British,5,Good breakfast; Comfortable beds,5,5,5,5,5,4
+RV0368,2023-10-08,4,Couple,British,2,Clean rooms; Beautiful pool area; Comfortable beds,4,4,4,4,3,4
+RV0369,2023-08-21,5,Couple,French,5,Good breakfast; Beautiful pool area; Great location near the beach,5,5,5,5,5,4
+RV0370,2023-12-26,2,Family,Spanish,7,Slow check-in,2,2,2,1,2,2
+RV0371,2023-11-30,4,Solo,Portuguese,6,Comfortable beds; Excellent staff; Beautiful pool area,3,4,4,4,3,5
+RV0372,2023-08-20,4,Couple,British,6,Beautiful pool area,3,4,5,4,4,4
+RV0373,2023-06-23,4,Solo,German,5,Beautiful pool area; Comfortable beds,4,4,4,4,3,4
+RV0374,2023-02-18,5,Couple,Spanish,1,Beautiful pool area; Clean rooms,5,5,5,4,4,5
+RV0375,2023-12-07,5,Solo,British,5,Clean rooms; Excellent staff,5,5,4,5,5,5
+RV0376,2023-12-18,5,Couple,British,10,Great location near the beach; Comfortable beds,5,5,4,5,4,5
+RV0377,2023-02-13,2,Couple,Portuguese,3,Limited parking,2,2,2,1,1,2
+RV0378,2023-02-19,5,Couple,British,5,Comfortable beds; Clean rooms; Excellent staff,5,5,5,5,5,5
+RV0379,2023-10-12,5,Couple,German,5,Good breakfast,5,5,4,5,5,5
+RV0380,2023-10-15,4,Business,German,6,Clean rooms; Great location near the beach; Beautiful pool area,5,4,4,3,4,3
+RV0381,2023-07-01,5,Couple,French,4,Beautiful pool area; Great location near the beach; Clean rooms,5,5,5,5,4,5
+RV0382,2023-11-04,4,Couple,Portuguese,4,Clean rooms; Great location near the beach,4,4,5,4,5,4
+RV0383,2023-10-23,4,Family,French,3,Excellent staff; Comfortable beds; Beautiful pool area,4,4,4,3,3,4
+RV0384,2023-04-25,5,Couple,Other,4,Clean rooms,4,4,5,4,4,5
+RV0385,2023-10-12,4,Couple,French,2,Great location near the beach; Clean rooms,4,4,4,3,4,5
+RV0386,2023-10-21,5,Friends,Portuguese,2,Beautiful pool area,5,5,5,5,5,5
+RV0387,2023-10-15,4,Family,French,3,Good breakfast; Comfortable beds; Great location near the beach,4,5,4,4,4,4
+RV0388,2023-11-08,4,Solo,Dutch,3,Comfortable beds; Clean rooms; Great location near the beach,4,4,3,4,5,4
+RV0389,2023-04-03,5,Couple,Spanish,3,Comfortable beds; Clean rooms,5,5,4,5,5,5
+RV0390,2023-06-23,4,Couple,German,3,Great location near the beach; Excellent staff,4,5,5,5,4,5
+RV0391,2023-03-15,5,Couple,German,3,Comfortable beds; Beautiful pool area; Great location near the beach,5,5,5,5,4,5
+RV0392,2023-03-14,4,Business,Portuguese,5,Comfortable beds; Great location near the beach; Good breakfast,3,4,4,4,4,4
+RV0393,2023-09-29,5,Couple,British,3,Beautiful pool area,5,5,5,4,5,5
+RV0394,2023-08-03,4,Family,Portuguese,5,Clean rooms; Excellent staff,4,4,4,4,4,5
+RV0395,2023-07-09,5,Family,Dutch,5,Comfortable beds; Clean rooms,5,5,5,5,5,5
+RV0396,2023-10-18,3,Couple,French,5,Great location near the beach,3,3,2,4,3,3
+RV0397,2023-03-21,5,Couple,Dutch,5,Good breakfast,5,5,5,5,5,5
+RV0398,2023-01-26,4,Family,Portuguese,9,Great location near the beach; Clean rooms; Beautiful pool area,4,4,4,4,3,5
+RV0399,2023-12-05,4,Couple,Portuguese,5,Beautiful pool area; Good breakfast,3,4,5,5,4,4
+RV0400,2023-08-15,2,Business,Dutch,3,Noise from street; WiFi issues,3,2,2,2,2,2
+RV0401,2023-09-20,4,Couple,Spanish,4,Clean rooms,4,3,4,5,4,3
+RV0402,2023-08-09,3,Solo,British,3,Good breakfast,3,3,3,3,3,3
+RV0403,2023-12-14,5,Couple,Portuguese,2,Good breakfast; Beautiful pool area; Clean rooms,5,5,5,5,4,5
+RV0404,2023-01-24,5,Solo,Portuguese,5,Beautiful pool area,4,5,5,5,5,5
+RV0405,2023-11-03,5,Couple,French,2,Great location near the beach,5,4,5,5,5,5
+RV0406,2023-04-15,4,Friends,Portuguese,5,Excellent staff; Comfortable beds,4,4,4,4,4,5
+RV0407,2023-05-11,4,Family,Other,3,Clean rooms; Great location near the beach,4,4,5,4,4,3
+RV0408,2023-01-04,4,Couple,French,7,Comfortable beds; Beautiful pool area,4,3,4,4,4,4
+RV0409,2023-03-31,3,Couple,Portuguese,2,Room could be larger,3,3,3,3,3,3
+RV0410,2023-09-30,3,Family,French,5,Noise from street,4,3,2,3,4,2
+RV0411,2023-10-14,5,Friends,Other,5,Clean rooms; Great location near the beach; Beautiful pool area,5,5,5,5,5,5
+RV0412,2023-01-22,4,Family,British,3,Great location near the beach; Beautiful pool area,4,4,4,4,5,3
+RV0413,2023-02-09,5,Friends,French,5,Good breakfast; Beautiful pool area,5,5,5,5,5,5
+RV0414,2023-10-21,4,Family,German,2,Comfortable beds; Beautiful pool area,5,3,4,4,4,3
+RV0415,2023-05-29,1,Friends,German,6,Limited parking,1,1,1,1,1,1
+RV0416,2023-01-11,3,Couple,British,9,Clean rooms; Limited parking,3,3,3,3,3,4
+RV0417,2023-08-24,5,Family,Dutch,4,Clean rooms; Great location near the beach; Beautiful pool area,4,5,5,5,5,5
+RV0418,2023-02-24,5,Family,Other,4,Beautiful pool area,5,5,5,4,5,5
+RV0419,2023-10-29,5,Family,British,2,Good breakfast; Great location near the beach,5,5,5,5,5,4
+RV0420,2023-07-22,3,Friends,Dutch,7,Slow check-in; Comfortable beds,3,3,3,4,2,3
+RV0421,2023-04-24,4,Family,French,4,Excellent staff; Great location near the beach,4,4,3,5,4,4
+RV0422,2023-09-19,5,Solo,British,3,Great location near the beach; Good breakfast; Excellent staff,5,5,4,5,5,4
+RV0423,2023-06-28,5,Friends,German,4,Comfortable beds; Excellent staff,5,5,4,5,4,5
+RV0424,2023-05-01,4,Couple,Other,3,Excellent staff,5,4,4,5,4,3
+RV0425,2023-05-12,5,Family,British,6,Excellent staff,5,5,4,5,5,5
+RV0426,2023-11-05,4,Couple,Other,5,Comfortable beds,4,3,4,4,4,3
+RV0427,2023-02-08,4,Business,French,7,Comfortable beds,4,4,3,4,4,4
+RV0428,2023-09-10,3,Couple,British,3,Limited parking; Slow check-in,2,3,3,4,3,3
+RV0429,2023-08-18,1,Family,Portuguese,5,Expensive drinks; Slow check-in; Noise from street,1,1,1,1,1,1
+RV0430,2023-11-18,4,Business,German,7,Excellent staff; Beautiful pool area,5,4,4,5,4,4
+RV0431,2023-02-04,5,Friends,Portuguese,2,Beautiful pool area; Clean rooms,5,5,5,5,5,5
+RV0432,2023-05-21,4,Solo,Portuguese,4,Great location near the beach; Clean rooms; Comfortable beds,5,4,4,4,4,4
+RV0433,2023-06-08,4,Couple,French,2,Beautiful pool area; Great location near the beach,4,4,4,5,4,5
+RV0434,2023-01-30,5,Couple,Spanish,6,Clean rooms; Great location near the beach,4,5,5,5,5,5
+RV0435,2023-11-27,5,Couple,British,7,Good breakfast,3,5,5,5,5,5
+RV0436,2023-11-01,5,Couple,Spanish,3,Beautiful pool area; Comfortable beds; Great location near the beach,5,5,5,5,5,5
+RV0437,2023-08-19,5,Couple,French,6,Comfortable beds; Excellent staff; Clean rooms,5,5,5,5,5,4
+RV0438,2023-11-06,3,Couple,Dutch,4,Noise from street; Clean rooms,4,3,3,3,3,3
+RV0439,2023-02-01,4,Family,Portuguese,6,Great location near the beach; Clean rooms,5,4,4,5,4,3
+RV0440,2023-02-13,4,Couple,British,4,Comfortable beds; Excellent staff; Great location near the beach,4,4,4,4,3,4
+RV0441,2023-05-07,4,Family,Spanish,3,Beautiful pool area; Comfortable beds; Excellent staff,4,3,4,4,4,4
+RV0442,2023-07-06,5,Business,Portuguese,7,Clean rooms; Beautiful pool area,5,5,5,5,4,5
+RV0443,2023-07-29,3,Couple,Portuguese,8,Expensive drinks; Limited parking,3,3,3,4,3,2
+RV0444,2023-01-27,5,Friends,British,5,Comfortable beds; Clean rooms; Great location near the beach,5,5,4,5,5,5
+RV0445,2023-06-18,2,Business,German,2,Expensive drinks,2,3,2,2,2,1
+RV0446,2023-12-14,1,Couple,Portuguese,7,Noise from street; Slow check-in,1,1,1,1,1,2
+RV0447,2023-12-03,5,Family,Portuguese,2,Excellent staff; Clean rooms; Great location near the beach,5,4,5,5,5,5
+RV0448,2023-10-26,3,Couple,British,4,Comfortable beds,3,3,3,3,2,3
+RV0449,2023-06-08,4,Couple,Portuguese,3,Comfortable beds; Beautiful pool area; Excellent staff,4,4,4,5,5,5
+RV0450,2023-11-01,5,Couple,French,5,Great location near the beach; Clean rooms; Beautiful pool area,5,5,5,5,5,5
+RV0451,2023-11-26,5,Couple,French,4,Excellent staff; Good breakfast,5,5,5,5,5,5
+RV0452,2023-02-17,5,Couple,British,3,Comfortable beds; Beautiful pool area; Clean rooms,5,5,4,4,5,5
+RV0453,2023-01-10,5,Business,Portuguese,3,Clean rooms; Excellent staff,5,5,4,4,5,5
+RV0454,2023-04-20,3,Couple,British,6,WiFi issues; Beautiful pool area,3,3,4,2,3,3
+RV0455,2023-04-26,5,Family,Portuguese,6,Excellent staff,5,5,5,5,5,5
+RV0456,2023-02-09,5,Family,French,5,Great location near the beach; Good breakfast,5,5,5,4,5,5
+RV0457,2023-10-04,5,Couple,British,5,Good breakfast; Great location near the beach; Clean rooms,5,5,5,5,5,5
+RV0458,2023-11-13,4,Couple,Dutch,4,Good breakfast,5,5,3,4,5,4
+RV0459,2023-07-12,5,Family,Portuguese,3,Excellent staff,5,5,5,5,5,5
+RV0460,2023-04-03,5,Couple,Spanish,4,Good breakfast; Excellent staff; Beautiful pool area,5,5,5,5,5,5
+RV0461,2023-01-23,4,Solo,British,4,Clean rooms; Excellent staff,4,5,3,4,4,3
+RV0462,2023-08-16,5,Couple,French,4,Clean rooms; Beautiful pool area; Excellent staff,5,5,5,5,5,5
+RV0463,2023-10-01,4,Family,Portuguese,5,Clean rooms,4,4,4,3,4,5
+RV0464,2023-08-29,3,Solo,British,2,Comfortable beds,3,2,3,3,4,4
+RV0465,2023-12-14,4,Friends,German,4,Beautiful pool area; Comfortable beds; Clean rooms,4,4,4,4,4,4
+RV0466,2023-07-15,5,Family,British,2,Good breakfast; Beautiful pool area; Excellent staff,5,5,4,5,4,4
+RV0467,2023-04-13,4,Family,Portuguese,3,Excellent staff; Clean rooms; Great location near the beach,4,4,4,4,4,4
+RV0468,2023-11-25,4,Family,Spanish,5,Clean rooms; Good breakfast,4,5,4,4,4,4
+RV0469,2023-02-22,5,Solo,Portuguese,7,Good breakfast; Great location near the beach; Clean rooms,5,4,5,4,5,5
+RV0470,2023-02-12,2,Couple,Portuguese,4,Noise from street,2,2,2,1,2,2
+RV0471,2023-08-19,4,Couple,British,2,Excellent staff; Beautiful pool area; Great location near the beach,4,4,4,4,4,4
+RV0472,2023-04-24,5,Family,German,2,Clean rooms; Great location near the beach,5,5,5,5,5,5
+RV0473,2023-08-01,3,Family,Portuguese,4,Room could be larger,2,3,3,3,3,3
+RV0474,2023-09-15,5,Couple,British,5,Excellent staff; Beautiful pool area,5,5,5,4,5,5
+RV0475,2023-02-11,5,Solo,French,8,Excellent staff; Great location near the beach,5,5,5,5,5,5
+RV0476,2023-06-13,5,Family,French,1,Comfortable beds,5,5,5,4,5,5
+RV0477,2023-11-29,3,Couple,British,3,Clean rooms; Slow check-in,3,3,2,2,3,4
+RV0478,2023-01-20,5,Couple,Portuguese,6,Beautiful pool area; Excellent staff,5,5,5,5,5,5
+RV0479,2023-12-28,5,Couple,Dutch,5,Beautiful pool area; Good breakfast,5,5,5,5,5,5
+RV0480,2023-01-03,5,Solo,German,7,Great location near the beach,5,5,5,5,5,5
+RV0481,2023-05-12,5,Solo,Other,3,Excellent staff,5,4,5,5,4,5
+RV0482,2023-10-08,4,Family,German,1,Good breakfast; Comfortable beds; Beautiful pool area,4,4,3,4,3,4
+RV0483,2023-02-26,5,Couple,French,4,Excellent staff; Clean rooms,5,5,5,5,4,5
+RV0484,2023-03-04,4,Family,Dutch,8,Excellent staff,5,3,4,4,4,3
+RV0485,2023-08-03,5,Couple,British,7,Good breakfast; Beautiful pool area; Great location near the beach,5,5,5,4,5,5
+RV0486,2023-02-26,5,Family,British,6,Good breakfast; Comfortable beds,5,5,5,5,5,5
+RV0487,2023-01-09,4,Couple,Portuguese,5,Good breakfast; Comfortable beds; Excellent staff,4,4,4,4,4,4
+RV0488,2023-03-15,3,Family,Spanish,2,Room could be larger; Great location near the beach,3,2,3,3,3,2
+RV0489,2023-11-11,5,Family,French,3,Excellent staff; Good breakfast,5,5,5,5,5,5
+RV0490,2023-08-02,5,Solo,British,4,Comfortable beds,5,5,5,5,5,5
+RV0491,2023-12-09,5,Family,British,3,Good breakfast,5,5,5,5,5,5
+RV0492,2023-07-04,3,Business,British,5,Noise from street,3,2,2,3,3,3
+RV0493,2023-10-06,3,Couple,German,4,Room could be larger,3,3,3,3,3,3
+RV0494,2023-08-29,5,Couple,Spanish,3,Comfortable beds,5,5,5,4,5,4
+RV0495,2023-07-18,5,Couple,German,5,Clean rooms; Great location near the beach,5,5,5,5,5,5
+RV0496,2023-07-02,4,Solo,Dutch,4,Clean rooms,4,3,5,4,4,4
+RV0497,2023-05-04,3,Couple,British,2,Limited parking,2,3,3,3,4,2
+RV0498,2023-06-20,5,Couple,Portuguese,8,Great location near the beach,5,5,5,5,5,5
+RV0499,2023-06-30,3,Family,British,2,Expensive drinks; Clean rooms,3,3,3,4,2,3
+RV0500,2023-12-17,1,Couple,Spanish,7,Slow check-in; Limited parking,2,1,1,1,1,1
