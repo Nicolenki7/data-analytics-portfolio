@@ -4,7 +4,7 @@
 
 Este proyecto de **Environmental Data Science** se enfoca en el análisis integral de la sustentabilidad ecosistémica, combinando el monitoreo de la calidad del agua y la biodiversidad para evaluar la salud ambiental. El objetivo es desarrollar un framework de análisis que permita la toma de decisiones informadas para la conservación y el manejo sostenible de ecosistemas.
 
-## 📊 Datasets Utilizados (Simulados)
+## 📊 Datasets Utilizados
 
 Se han generado datasets simulados que representan:
 - **Calidad del Agua**: Mediciones diarias de pH, oxígeno disuelto, turbidez y temperatura del agua.
