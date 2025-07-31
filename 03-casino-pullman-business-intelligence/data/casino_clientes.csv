@@ -1,0 +1,1001 @@
+ID_Cliente,Edad,Genero,Ciudad_Origen,Visitas_Casino,Gasto_Promedio_Casino
+1,57,Femenino,Rosario,23,970.83
+2,31,Femenino,Buenos Aires,22,984.93
+3,30,Femenino,Cordoba,27,227.69
+4,67,Femenino,Otros,8,871.56
+5,68,Femenino,Santa Fe,25,420.9
+6,39,Femenino,Cordoba,15,412.3
+7,28,Otro,Buenos Aires,6,299.56
+8,20,Femenino,Rosario,23,92.47
+9,22,Masculino,Santa Fe,20,304.61
+10,40,Femenino,Otros,2,101.09
+11,42,Femenino,Cordoba,25,928.15
+12,28,Femenino,Otros,25,678.63
+13,38,Femenino,Buenos Aires,15,892.29
+14,64,Femenino,Otros,20,731.43
+15,65,Otro,Rosario,12,174.72
+16,38,Masculino,Cordoba,3,943.55
+17,42,Femenino,Cordoba,10,904.9
+18,46,Masculino,Rosario,14,380.67
+19,46,Femenino,Otros,27,155.96
+20,58,Femenino,Rosario,22,718.95
+21,55,Masculino,Santa Fe,14,741.94
+22,31,Masculino,Rosario,3,901.99
+23,46,Femenino,Otros,1,100.02
+24,65,Masculino,Rosario,20,184.62
+25,53,Masculino,Buenos Aires,1,618.34
+26,52,Femenino,Rosario,2,638.17
+27,47,Masculino,Rosario,19,81.93
+28,50,Femenino,Otros,24,427.09
+29,51,Femenino,Santa Fe,10,604.95
+30,69,Masculino,Santa Fe,4,751.02
+31,39,Masculino,Otros,4,350.34
+32,59,Femenino,Otros,13,509.71
+33,54,Femenino,Otros,26,823.35
+34,50,Femenino,Buenos Aires,9,956.2
+35,50,Femenino,Cordoba,7,268.8
+36,57,Femenino,Rosario,16,290.39
+37,41,Masculino,Otros,18,942.83
+38,64,Masculino,Otros,3,426.12
+39,60,Masculino,Otros,20,732.43
+40,28,Masculino,Santa Fe,20,631.65
+41,28,Femenino,Otros,10,321.31
+42,34,Femenino,Rosario,24,670.88
+43,32,Masculino,Otros,26,672.79
+44,41,Femenino,Rosario,26,612.82
+45,35,Masculino,Buenos Aires,22,144.68
+46,51,Masculino,Cordoba,16,995.41
+47,21,Femenino,Santa Fe,3,430.4
+48,45,Masculino,Rosario,11,656.34
+49,33,Masculino,Buenos Aires,25,891.47
+50,57,Masculino,Cordoba,10,452.12
+51,53,Masculino,Cordoba,16,785.23
+52,27,Femenino,Cordoba,8,973.23
+53,55,Femenino,Rosario,9,390.99
+54,40,Masculino,Buenos Aires,15,435.01
+55,65,Masculino,Otros,21,910.3
+56,62,Femenino,Buenos Aires,3,201.66
+57,47,Femenino,Buenos Aires,4,77.17
+58,65,Masculino,Buenos Aires,13,913.44
+59,63,Masculino,Rosario,12,830.51
+60,67,Femenino,Rosario,21,973.95
+61,25,Femenino,Rosario,9,105.33
+62,39,Masculino,Buenos Aires,25,198.37
+63,50,Femenino,Rosario,14,150.05
+64,52,Masculino,Cordoba,19,699.25
+65,63,Femenino,Rosario,7,625.71
+66,26,Femenino,Santa Fe,16,391.37
+67,27,Femenino,Rosario,22,104.55
+68,28,Masculino,Rosario,20,657.68
+69,21,Masculino,Rosario,5,591.61
+70,36,Masculino,Rosario,10,157.26
+71,64,Femenino,Santa Fe,18,913.46
+72,56,Masculino,Otros,11,239.0
+73,61,Masculino,Rosario,7,756.33
+74,63,Masculino,Cordoba,14,890.82
+75,36,Femenino,Santa Fe,20,600.5
+76,57,Masculino,Otros,18,284.51
+77,54,Masculino,Rosario,11,343.79
+78,66,Masculino,Otros,22,891.46
+79,58,Femenino,Cordoba,27,333.34
+80,49,Femenino,Santa Fe,12,758.88
+81,25,Femenino,Santa Fe,18,990.66
+82,23,Femenino,Otros,26,999.83
+83,56,Femenino,Rosario,2,556.81
+84,54,Masculino,Buenos Aires,23,835.23
+85,28,Femenino,Santa Fe,1,990.74
+86,25,Masculino,Buenos Aires,23,405.94
+87,32,Masculino,Santa Fe,10,289.79
+88,41,Femenino,Rosario,21,158.52
+89,47,Masculino,Rosario,1,183.85
+90,49,Masculino,Santa Fe,6,860.88
+91,55,Masculino,Otros,7,609.29
+92,21,Femenino,Rosario,17,880.02
+93,55,Masculino,Rosario,9,799.98
+94,27,Femenino,Cordoba,7,690.06
+95,64,Femenino,Rosario,17,628.85
+96,61,Femenino,Cordoba,3,95.92
+97,69,Masculino,Rosario,16,878.66
+98,28,Femenino,Rosario,5,446.95
+99,20,Masculino,Otros,20,581.8
+100,32,Masculino,Otros,18,70.86
+101,69,Masculino,Rosario,1,939.27
+102,34,Femenino,Santa Fe,4,907.6
+103,51,Masculino,Santa Fe,23,566.11
+104,53,Masculino,Rosario,11,598.45
+105,62,Masculino,Santa Fe,20,719.77
+106,50,Masculino,Rosario,9,301.46
+107,33,Femenino,Otros,8,260.82
+108,66,Femenino,Buenos Aires,8,690.32
+109,33,Femenino,Cordoba,5,149.2
+110,67,Masculino,Santa Fe,12,481.36
+111,48,Masculino,Santa Fe,1,518.12
+112,66,Otro,Otros,15,412.27
+113,38,Masculino,Santa Fe,25,226.0
+114,46,Femenino,Rosario,18,387.55
+115,28,Masculino,Rosario,6,370.68
+116,56,Femenino,Buenos Aires,10,524.3
+117,56,Masculino,Buenos Aires,14,690.95
+118,62,Masculino,Buenos Aires,21,969.82
+119,47,Femenino,Rosario,26,186.96
+120,43,Femenino,Buenos Aires,29,879.37
+121,47,Masculino,Buenos Aires,8,319.97
+122,55,Femenino,Rosario,27,611.8
+123,37,Femenino,Otros,3,569.4
+124,44,Masculino,Santa Fe,22,579.1
+125,54,Masculino,Cordoba,22,737.19
+126,23,Masculino,Rosario,26,412.6
+127,33,Masculino,Rosario,19,353.14
+128,58,Femenino,Cordoba,12,860.19
+129,45,Masculino,Cordoba,12,259.09
+130,27,Masculino,Buenos Aires,15,221.23
+131,43,Masculino,Cordoba,28,64.83
+132,35,Femenino,Santa Fe,7,250.05
+133,39,Masculino,Santa Fe,27,542.6
+134,34,Masculino,Santa Fe,4,561.58
+135,26,Masculino,Santa Fe,21,291.7
+136,36,Femenino,Santa Fe,9,118.66
+137,41,Masculino,Buenos Aires,22,757.41
+138,41,Femenino,Rosario,16,770.08
+139,31,Masculino,Cordoba,26,997.94
+140,37,Masculino,Rosario,13,905.03
+141,65,Femenino,Cordoba,4,929.76
+142,66,Masculino,Buenos Aires,24,808.29
+143,34,Femenino,Buenos Aires,9,634.73
+144,56,Femenino,Otros,26,172.12
+145,35,Femenino,Otros,21,641.2
+146,24,Femenino,Buenos Aires,18,103.16
+147,21,Masculino,Buenos Aires,15,891.03
+148,47,Masculino,Cordoba,15,507.73
+149,60,Femenino,Buenos Aires,6,712.6
+150,46,Femenino,Rosario,11,99.63
+151,50,Femenino,Cordoba,28,557.54
+152,60,Masculino,Buenos Aires,8,336.2
+153,55,Masculino,Cordoba,29,320.72
+154,66,Femenino,Cordoba,21,420.17
+155,62,Masculino,Santa Fe,17,50.61
+156,20,Masculino,Otros,24,493.33
+157,69,Masculino,Cordoba,25,512.24
+158,48,Femenino,Cordoba,17,869.97
+159,20,Masculino,Santa Fe,24,476.1
+160,27,Femenino,Buenos Aires,26,395.38
+161,35,Masculino,Cordoba,28,995.01
+162,47,Femenino,Santa Fe,18,592.65
+163,41,Femenino,Rosario,4,498.98
+164,37,Masculino,Santa Fe,29,521.14
+165,41,Femenino,Otros,15,818.72
+166,60,Masculino,Otros,2,373.64
+167,31,Masculino,Buenos Aires,2,419.7
+168,38,Femenino,Buenos Aires,10,768.08
+169,44,Masculino,Otros,3,119.33
+170,69,Masculino,Otros,8,871.91
+171,24,Masculino,Cordoba,20,458.69
+172,53,Masculino,Otros,7,602.23
+173,58,Femenino,Buenos Aires,12,769.6
+174,29,Masculino,Otros,26,302.75
+175,66,Femenino,Buenos Aires,19,895.8
+176,26,Femenino,Rosario,26,980.26
+177,56,Masculino,Otros,28,519.56
+178,66,Masculino,Buenos Aires,15,940.09
+179,34,Femenino,Santa Fe,14,51.07
+180,61,Masculino,Cordoba,16,899.53
+181,43,Masculino,Buenos Aires,29,345.49
+182,45,Masculino,Otros,27,345.92
+183,45,Femenino,Otros,14,266.68
+184,65,Femenino,Rosario,3,351.16
+185,45,Masculino,Santa Fe,18,252.81
+186,29,Masculino,Buenos Aires,29,910.58
+187,36,Femenino,Santa Fe,28,904.07
+188,33,Femenino,Rosario,22,147.1
+189,21,Femenino,Cordoba,6,185.72
+190,67,Femenino,Santa Fe,17,868.92
+191,32,Masculino,Rosario,23,428.99
+192,46,Femenino,Buenos Aires,28,210.81
+193,28,Masculino,Cordoba,14,535.14
+194,26,Masculino,Otros,14,445.83
+195,67,Femenino,Rosario,20,258.2
+196,29,Masculino,Otros,13,734.71
+197,28,Otro,Cordoba,27,649.72
+198,41,Masculino,Rosario,28,144.68
+199,42,Femenino,Rosario,3,929.12
+200,26,Femenino,Cordoba,13,580.55
+201,67,Masculino,Buenos Aires,29,287.69
+202,28,Femenino,Rosario,24,245.98
+203,46,Masculino,Cordoba,2,179.15
+204,43,Femenino,Santa Fe,9,453.41
+205,48,Masculino,Otros,13,178.76
+206,36,Femenino,Rosario,8,445.03
+207,39,Masculino,Santa Fe,16,191.33
+208,26,Masculino,Rosario,24,673.97
+209,62,Masculino,Buenos Aires,29,795.98
+210,59,Masculino,Cordoba,3,572.05
+211,26,Femenino,Rosario,13,696.05
+212,47,Femenino,Cordoba,4,941.46
+213,38,Femenino,Rosario,18,656.45
+214,39,Masculino,Buenos Aires,2,395.95
+215,63,Femenino,Buenos Aires,20,477.01
+216,58,Masculino,Santa Fe,22,867.5
+217,59,Femenino,Buenos Aires,21,174.18
+218,26,Otro,Cordoba,15,359.45
+219,25,Masculino,Buenos Aires,17,598.42
+220,44,Masculino,Rosario,29,692.57
+221,60,Masculino,Buenos Aires,10,775.32
+222,32,Femenino,Cordoba,1,352.3
+223,58,Femenino,Rosario,6,188.57
+224,59,Femenino,Santa Fe,3,957.1
+225,41,Masculino,Santa Fe,19,122.57
+226,68,Femenino,Santa Fe,7,141.02
+227,36,Femenino,Rosario,13,520.2
+228,67,Masculino,Santa Fe,13,828.31
+229,41,Femenino,Buenos Aires,17,785.78
+230,53,Masculino,Rosario,1,940.81
+231,27,Masculino,Rosario,14,184.52
+232,68,Femenino,Rosario,29,406.94
+233,64,Masculino,Otros,26,318.04
+234,37,Femenino,Cordoba,3,867.83
+235,43,Femenino,Otros,14,513.94
+236,61,Masculino,Otros,24,75.51
+237,21,Femenino,Otros,1,722.57
+238,21,Femenino,Cordoba,16,419.26
+239,46,Masculino,Otros,10,554.59
+240,33,Masculino,Santa Fe,13,899.1
+241,67,Masculino,Rosario,4,293.9
+242,58,Masculino,Rosario,9,278.25
+243,31,Masculino,Buenos Aires,14,300.03
+244,51,Masculino,Santa Fe,4,371.2
+245,47,Masculino,Cordoba,10,151.99
+246,47,Femenino,Rosario,8,712.36
+247,65,Masculino,Otros,23,247.03
+248,44,Femenino,Buenos Aires,3,929.84
+249,23,Femenino,Buenos Aires,23,254.9
+250,45,Femenino,Rosario,7,292.86
+251,55,Masculino,Santa Fe,10,332.17
+252,69,Femenino,Buenos Aires,3,780.11
+253,22,Femenino,Rosario,2,456.23
+254,20,Femenino,Santa Fe,15,828.37
+255,36,Masculino,Rosario,9,795.61
+256,26,Masculino,Rosario,15,933.02
+257,67,Femenino,Santa Fe,17,768.77
+258,24,Masculino,Santa Fe,7,99.32
+259,38,Masculino,Santa Fe,20,845.42
+260,58,Masculino,Rosario,18,941.17
+261,65,Femenino,Buenos Aires,15,994.0
+262,53,Otro,Cordoba,18,169.0
+263,54,Masculino,Cordoba,24,632.61
+264,68,Femenino,Rosario,23,239.49
+265,35,Femenino,Rosario,12,299.38
+266,59,Femenino,Buenos Aires,23,758.31
+267,69,Femenino,Santa Fe,21,978.78
+268,66,Femenino,Rosario,26,615.11
+269,58,Femenino,Otros,8,858.06
+270,46,Masculino,Santa Fe,2,58.44
+271,60,Femenino,Rosario,2,84.8
+272,57,Masculino,Otros,5,616.89
+273,69,Masculino,Buenos Aires,1,419.53
+274,69,Femenino,Otros,22,895.27
+275,44,Femenino,Rosario,4,336.88
+276,45,Femenino,Cordoba,6,460.45
+277,33,Masculino,Rosario,23,551.51
+278,33,Masculino,Cordoba,13,309.39
+279,33,Femenino,Buenos Aires,19,913.07
+280,44,Masculino,Buenos Aires,11,491.31
+281,55,Femenino,Santa Fe,13,452.95
+282,23,Masculino,Santa Fe,8,857.27
+283,66,Masculino,Cordoba,7,346.38
+284,34,Otro,Cordoba,13,826.59
+285,51,Masculino,Buenos Aires,1,166.16
+286,37,Masculino,Otros,6,223.65
+287,33,Masculino,Cordoba,7,953.3
+288,20,Femenino,Cordoba,16,850.33
+289,61,Femenino,Otros,27,418.5
+290,39,Masculino,Santa Fe,15,656.53
+291,29,Masculino,Santa Fe,20,945.82
+292,29,Femenino,Cordoba,2,251.27
+293,43,Masculino,Santa Fe,26,106.06
+294,53,Femenino,Santa Fe,25,560.59
+295,47,Masculino,Santa Fe,23,185.47
+296,46,Masculino,Buenos Aires,16,227.95
+297,59,Femenino,Rosario,17,896.96
+298,20,Masculino,Cordoba,24,57.03
+299,52,Femenino,Cordoba,15,825.98
+300,23,Masculino,Buenos Aires,3,541.1
+301,26,Masculino,Rosario,4,581.33
+302,28,Otro,Rosario,12,688.18
+303,35,Masculino,Buenos Aires,5,459.87
+304,24,Femenino,Otros,17,159.83
+305,53,Masculino,Otros,6,147.68
+306,42,Femenino,Rosario,10,766.64
+307,62,Femenino,Otros,22,259.98
+308,69,Masculino,Otros,18,76.7
+309,44,Femenino,Otros,27,980.63
+310,32,Femenino,Rosario,10,981.37
+311,43,Masculino,Otros,6,409.23
+312,30,Femenino,Cordoba,24,74.25
+313,36,Femenino,Rosario,6,740.9
+314,56,Masculino,Buenos Aires,20,839.46
+315,32,Masculino,Otros,15,168.76
+316,46,Masculino,Santa Fe,4,178.69
+317,39,Masculino,Rosario,25,831.11
+318,52,Femenino,Buenos Aires,16,925.81
+319,61,Femenino,Cordoba,22,801.22
+320,51,Femenino,Buenos Aires,24,240.71
+321,27,Masculino,Otros,8,440.95
+322,48,Masculino,Santa Fe,7,620.8
+323,59,Femenino,Otros,19,202.28
+324,38,Femenino,Buenos Aires,26,250.07
+325,25,Femenino,Rosario,17,318.74
+326,63,Masculino,Santa Fe,21,534.04
+327,58,Masculino,Santa Fe,13,535.26
+328,67,Masculino,Buenos Aires,15,823.58
+329,60,Otro,Otros,26,765.36
+330,40,Masculino,Buenos Aires,26,918.05
+331,41,Femenino,Santa Fe,2,841.26
+332,61,Femenino,Buenos Aires,28,291.18
+333,29,Masculino,Santa Fe,10,364.73
+334,29,Femenino,Otros,13,525.4
+335,48,Femenino,Rosario,18,63.56
+336,35,Femenino,Rosario,23,908.71
+337,20,Masculino,Buenos Aires,11,92.13
+338,36,Masculino,Santa Fe,13,356.32
+339,49,Masculino,Rosario,19,590.72
+340,45,Masculino,Santa Fe,29,541.95
+341,65,Femenino,Otros,24,671.74
+342,38,Femenino,Buenos Aires,25,551.14
+343,40,Masculino,Santa Fe,29,267.55
+344,36,Femenino,Buenos Aires,24,241.02
+345,65,Femenino,Santa Fe,22,911.88
+346,59,Masculino,Santa Fe,5,300.77
+347,40,Masculino,Otros,3,316.93
+348,60,Femenino,Buenos Aires,19,442.31
+349,59,Femenino,Cordoba,23,182.47
+350,64,Femenino,Santa Fe,13,531.91
+351,68,Masculino,Santa Fe,5,681.78
+352,38,Masculino,Rosario,12,796.7
+353,26,Masculino,Buenos Aires,14,725.88
+354,36,Femenino,Cordoba,6,190.25
+355,20,Femenino,Otros,22,483.26
+356,56,Masculino,Cordoba,9,86.66
+357,25,Femenino,Otros,17,66.91
+358,45,Femenino,Cordoba,8,468.12
+359,21,Femenino,Cordoba,26,290.31
+360,51,Otro,Buenos Aires,13,699.19
+361,67,Masculino,Rosario,29,738.03
+362,24,Femenino,Cordoba,5,900.63
+363,56,Masculino,Santa Fe,29,772.65
+364,50,Masculino,Santa Fe,22,95.83
+365,31,Femenino,Santa Fe,22,403.04
+366,54,Femenino,Rosario,17,309.37
+367,49,Femenino,Cordoba,3,416.83
+368,67,Femenino,Otros,28,202.07
+369,25,Femenino,Otros,6,142.82
+370,34,Femenino,Buenos Aires,14,544.94
+371,34,Masculino,Rosario,15,734.36
+372,35,Femenino,Cordoba,14,716.82
+373,39,Femenino,Santa Fe,11,478.4
+374,32,Masculino,Rosario,11,546.17
+375,63,Masculino,Rosario,9,540.51
+376,61,Femenino,Cordoba,6,706.99
+377,65,Femenino,Buenos Aires,15,95.53
+378,50,Femenino,Buenos Aires,12,724.4
+379,53,Femenino,Buenos Aires,29,603.09
+380,48,Masculino,Santa Fe,6,238.2
+381,22,Femenino,Santa Fe,1,96.61
+382,28,Femenino,Cordoba,25,153.1
+383,30,Femenino,Buenos Aires,16,548.46
+384,30,Femenino,Cordoba,20,770.49
+385,44,Femenino,Buenos Aires,15,367.92
+386,41,Femenino,Rosario,2,410.17
+387,61,Femenino,Otros,17,937.44
+388,65,Masculino,Otros,3,252.36
+389,28,Femenino,Buenos Aires,3,148.56
+390,39,Masculino,Cordoba,5,376.24
+391,40,Masculino,Santa Fe,17,758.63
+392,29,Femenino,Buenos Aires,23,644.77
+393,41,Masculino,Buenos Aires,29,445.01
+394,48,Femenino,Santa Fe,17,966.51
+395,28,Masculino,Buenos Aires,20,748.25
+396,24,Masculino,Rosario,6,108.77
+397,59,Femenino,Santa Fe,1,757.4
+398,30,Masculino,Rosario,7,72.84
+399,20,Femenino,Otros,26,667.81
+400,61,Masculino,Santa Fe,15,249.96
+401,20,Masculino,Santa Fe,7,711.62
+402,58,Masculino,Cordoba,19,344.29
+403,65,Masculino,Cordoba,20,879.36
+404,24,Femenino,Santa Fe,22,370.07
+405,68,Masculino,Otros,11,638.71
+406,41,Femenino,Buenos Aires,23,321.63
+407,45,Femenino,Cordoba,14,921.36
+408,25,Femenino,Otros,13,791.95
+409,51,Femenino,Otros,20,281.14
+410,67,Masculino,Cordoba,26,951.36
+411,30,Masculino,Buenos Aires,27,389.3
+412,29,Femenino,Cordoba,25,669.27
+413,66,Femenino,Otros,9,755.71
+414,58,Femenino,Rosario,9,71.76
+415,53,Femenino,Cordoba,16,961.02
+416,50,Masculino,Otros,12,377.22
+417,31,Masculino,Cordoba,10,230.29
+418,63,Femenino,Otros,6,858.17
+419,35,Femenino,Buenos Aires,18,717.75
+420,57,Masculino,Otros,2,132.41
+421,22,Femenino,Santa Fe,27,161.19
+422,21,Masculino,Rosario,20,729.43
+423,24,Masculino,Otros,9,121.04
+424,30,Femenino,Cordoba,19,921.32
+425,44,Femenino,Cordoba,6,754.46
+426,54,Femenino,Otros,2,368.72
+427,54,Masculino,Santa Fe,15,394.79
+428,41,Masculino,Otros,17,531.17
+429,56,Femenino,Buenos Aires,16,392.92
+430,41,Masculino,Santa Fe,28,794.3
+431,30,Femenino,Otros,21,976.0
+432,51,Femenino,Rosario,8,605.3
+433,54,Femenino,Santa Fe,10,473.74
+434,50,Masculino,Otros,10,261.64
+435,64,Femenino,Rosario,18,670.76
+436,27,Masculino,Otros,10,701.3
+437,39,Masculino,Buenos Aires,9,700.93
+438,61,Masculino,Cordoba,28,75.64
+439,53,Masculino,Otros,24,904.17
+440,23,Femenino,Santa Fe,19,371.2
+441,37,Masculino,Otros,1,756.96
+442,23,Masculino,Otros,4,771.82
+443,39,Otro,Otros,24,668.03
+444,28,Masculino,Otros,3,425.12
+445,35,Femenino,Santa Fe,10,627.97
+446,45,Masculino,Santa Fe,12,88.19
+447,57,Masculino,Otros,18,773.8
+448,44,Femenino,Cordoba,23,144.61
+449,23,Masculino,Otros,20,426.91
+450,60,Femenino,Santa Fe,6,148.44
+451,64,Masculino,Buenos Aires,21,845.22
+452,60,Masculino,Otros,2,572.79
+453,57,Masculino,Otros,10,706.41
+454,38,Masculino,Otros,2,698.45
+455,33,Masculino,Otros,9,849.53
+456,40,Femenino,Rosario,27,175.94
+457,34,Femenino,Otros,10,676.74
+458,22,Masculino,Santa Fe,2,596.38
+459,56,Masculino,Santa Fe,8,79.35
+460,69,Femenino,Rosario,24,241.35
+461,65,Femenino,Otros,17,304.19
+462,35,Femenino,Cordoba,17,118.93
+463,33,Femenino,Otros,29,386.98
+464,28,Masculino,Santa Fe,4,75.84
+465,66,Masculino,Buenos Aires,18,575.52
+466,26,Femenino,Buenos Aires,12,250.93
+467,33,Femenino,Cordoba,17,322.65
+468,25,Femenino,Otros,9,914.95
+469,40,Masculino,Rosario,29,527.68
+470,34,Otro,Otros,19,305.56
+471,27,Femenino,Cordoba,14,618.54
+472,53,Masculino,Cordoba,14,241.59
+473,59,Femenino,Cordoba,17,120.68
+474,20,Masculino,Buenos Aires,2,69.86
+475,51,Masculino,Otros,8,953.95
+476,68,Masculino,Otros,5,738.38
+477,24,Masculino,Rosario,27,809.95
+478,49,Masculino,Cordoba,7,981.87
+479,41,Femenino,Cordoba,22,935.05
+480,39,Masculino,Santa Fe,29,750.07
+481,35,Femenino,Santa Fe,16,709.29
+482,26,Masculino,Buenos Aires,16,370.01
+483,26,Masculino,Otros,17,148.82
+484,69,Femenino,Rosario,22,595.04
+485,69,Femenino,Rosario,27,597.44
+486,21,Femenino,Cordoba,7,954.63
+487,66,Otro,Rosario,20,470.44
+488,33,Masculino,Cordoba,8,706.27
+489,50,Masculino,Otros,8,596.22
+490,69,Femenino,Rosario,23,217.92
+491,60,Otro,Cordoba,11,612.46
+492,33,Femenino,Otros,15,563.11
+493,24,Femenino,Otros,18,519.21
+494,30,Femenino,Cordoba,6,537.75
+495,59,Masculino,Cordoba,22,205.79
+496,24,Femenino,Buenos Aires,12,490.3
+497,48,Femenino,Otros,15,625.37
+498,30,Femenino,Cordoba,28,514.98
+499,24,Masculino,Otros,23,514.25
+500,68,Masculino,Rosario,6,123.64
+501,51,Masculino,Santa Fe,18,231.24
+502,55,Masculino,Santa Fe,24,354.92
+503,34,Femenino,Cordoba,20,448.38
+504,38,Masculino,Cordoba,9,614.24
+505,41,Masculino,Otros,8,870.18
+506,53,Masculino,Cordoba,14,201.21
+507,36,Femenino,Otros,19,64.33
+508,31,Femenino,Cordoba,19,476.78
+509,44,Masculino,Otros,8,460.5
+510,36,Masculino,Cordoba,2,574.31
+511,29,Masculino,Buenos Aires,25,841.56
+512,47,Femenino,Otros,4,812.24
+513,37,Masculino,Buenos Aires,6,145.04
+514,37,Femenino,Buenos Aires,3,937.3
+515,64,Masculino,Buenos Aires,3,154.89
+516,51,Masculino,Buenos Aires,19,652.84
+517,33,Femenino,Rosario,11,688.79
+518,35,Masculino,Santa Fe,29,695.88
+519,69,Femenino,Rosario,10,302.08
+520,37,Masculino,Cordoba,12,363.83
+521,35,Femenino,Cordoba,14,571.24
+522,36,Femenino,Santa Fe,28,239.61
+523,26,Femenino,Santa Fe,18,69.29
+524,31,Masculino,Santa Fe,24,584.04
+525,53,Masculino,Buenos Aires,9,492.01
+526,29,Masculino,Rosario,15,673.89
+527,24,Femenino,Cordoba,24,189.37
+528,40,Femenino,Rosario,26,848.88
+529,22,Masculino,Rosario,3,188.91
+530,38,Masculino,Rosario,23,896.78
+531,64,Femenino,Santa Fe,11,477.05
+532,63,Masculino,Santa Fe,10,572.31
+533,54,Masculino,Cordoba,18,901.75
+534,25,Masculino,Cordoba,4,334.92
+535,33,Femenino,Cordoba,28,222.74
+536,23,Femenino,Rosario,13,473.46
+537,64,Otro,Santa Fe,29,282.15
+538,37,Masculino,Buenos Aires,6,551.45
+539,48,Femenino,Rosario,27,311.49
+540,54,Femenino,Otros,21,871.27
+541,57,Masculino,Rosario,13,626.96
+542,35,Femenino,Santa Fe,25,50.23
+543,39,Masculino,Otros,26,815.2
+544,43,Masculino,Rosario,20,363.7
+545,54,Masculino,Santa Fe,5,354.2
+546,63,Masculino,Santa Fe,20,413.91
+547,38,Femenino,Buenos Aires,14,648.75
+548,23,Masculino,Rosario,13,469.96
+549,52,Masculino,Santa Fe,14,647.2
+550,21,Masculino,Cordoba,8,189.44
+551,32,Femenino,Santa Fe,16,971.66
+552,64,Femenino,Buenos Aires,13,743.13
+553,49,Femenino,Santa Fe,24,287.7
+554,53,Femenino,Rosario,15,737.96
+555,49,Masculino,Rosario,19,596.27
+556,43,Masculino,Otros,1,153.73
+557,67,Femenino,Rosario,22,219.29
+558,63,Masculino,Otros,2,89.24
+559,52,Masculino,Cordoba,18,818.78
+560,60,Femenino,Buenos Aires,19,574.12
+561,68,Masculino,Cordoba,8,350.91
+562,29,Masculino,Otros,3,170.03
+563,37,Masculino,Santa Fe,23,509.84
+564,38,Masculino,Santa Fe,26,549.0
+565,26,Femenino,Cordoba,14,716.85
+566,38,Femenino,Santa Fe,26,971.44
+567,43,Femenino,Otros,9,463.2
+568,34,Femenino,Buenos Aires,29,435.73
+569,60,Masculino,Rosario,8,401.43
+570,61,Masculino,Otros,17,835.58
+571,42,Masculino,Otros,23,198.5
+572,23,Masculino,Rosario,23,376.62
+573,57,Otro,Rosario,24,738.72
+574,23,Femenino,Buenos Aires,16,64.91
+575,24,Masculino,Buenos Aires,10,324.91
+576,60,Masculino,Buenos Aires,21,659.37
+577,63,Masculino,Santa Fe,10,226.65
+578,42,Masculino,Otros,25,337.58
+579,59,Masculino,Rosario,25,511.74
+580,56,Femenino,Otros,24,450.92
+581,30,Femenino,Otros,6,150.73
+582,30,Femenino,Buenos Aires,22,941.32
+583,32,Masculino,Buenos Aires,17,92.08
+584,33,Masculino,Otros,29,762.26
+585,27,Femenino,Buenos Aires,16,117.85
+586,44,Femenino,Santa Fe,15,493.93
+587,37,Femenino,Rosario,22,216.64
+588,63,Femenino,Otros,14,184.04
+589,63,Femenino,Rosario,4,169.6
+590,37,Femenino,Santa Fe,4,480.15
+591,29,Masculino,Buenos Aires,2,539.71
+592,26,Femenino,Cordoba,29,176.72
+593,69,Masculino,Santa Fe,11,980.43
+594,63,Masculino,Cordoba,4,294.88
+595,33,Femenino,Rosario,21,485.9
+596,34,Masculino,Otros,29,255.46
+597,35,Masculino,Buenos Aires,28,519.23
+598,21,Masculino,Santa Fe,21,768.22
+599,49,Masculino,Buenos Aires,16,545.05
+600,49,Masculino,Cordoba,21,321.37
+601,37,Masculino,Cordoba,4,285.98
+602,50,Masculino,Otros,1,770.99
+603,63,Masculino,Cordoba,26,162.33
+604,67,Otro,Otros,24,401.47
+605,32,Masculino,Santa Fe,19,193.91
+606,39,Masculino,Otros,2,295.08
+607,68,Femenino,Cordoba,9,195.05
+608,69,Femenino,Rosario,23,892.43
+609,54,Femenino,Otros,25,745.31
+610,42,Masculino,Buenos Aires,13,582.88
+611,61,Femenino,Rosario,18,263.2
+612,52,Femenino,Otros,16,534.72
+613,57,Femenino,Buenos Aires,16,544.79
+614,54,Femenino,Rosario,25,610.88
+615,55,Femenino,Otros,10,107.08
+616,39,Femenino,Santa Fe,9,974.26
+617,22,Femenino,Buenos Aires,11,492.17
+618,27,Masculino,Santa Fe,25,930.21
+619,59,Femenino,Cordoba,26,59.32
+620,51,Femenino,Otros,29,285.18
+621,48,Masculino,Otros,26,148.8
+622,26,Otro,Buenos Aires,4,781.14
+623,21,Masculino,Otros,10,354.12
+624,40,Masculino,Cordoba,3,848.47
+625,25,Femenino,Otros,6,840.77
+626,47,Masculino,Rosario,3,684.41
+627,67,Masculino,Santa Fe,27,682.49
+628,61,Masculino,Cordoba,9,715.15
+629,55,Masculino,Cordoba,3,690.08
+630,51,Masculino,Santa Fe,18,417.56
+631,64,Masculino,Santa Fe,8,698.69
+632,61,Masculino,Cordoba,22,902.54
+633,65,Otro,Santa Fe,8,365.94
+634,28,Otro,Buenos Aires,15,947.64
+635,30,Masculino,Santa Fe,13,62.9
+636,42,Femenino,Rosario,7,381.63
+637,69,Masculino,Rosario,19,175.49
+638,30,Masculino,Buenos Aires,8,170.29
+639,68,Masculino,Santa Fe,10,824.66
+640,21,Otro,Rosario,17,922.45
+641,22,Femenino,Otros,1,788.87
+642,30,Masculino,Santa Fe,13,977.78
+643,69,Masculino,Buenos Aires,29,255.51
+644,54,Masculino,Santa Fe,26,183.76
+645,34,Femenino,Cordoba,13,544.67
+646,62,Femenino,Cordoba,24,837.59
+647,30,Masculino,Rosario,16,87.85
+648,50,Femenino,Cordoba,29,995.79
+649,47,Masculino,Buenos Aires,9,622.13
+650,47,Femenino,Rosario,10,979.99
+651,51,Femenino,Buenos Aires,6,396.83
+652,44,Masculino,Buenos Aires,5,485.12
+653,39,Femenino,Cordoba,2,764.74
+654,47,Femenino,Cordoba,11,803.07
+655,44,Masculino,Buenos Aires,9,271.38
+656,30,Masculino,Cordoba,6,933.31
+657,38,Femenino,Cordoba,8,874.05
+658,47,Masculino,Cordoba,9,67.3
+659,20,Masculino,Santa Fe,9,172.14
+660,24,Masculino,Buenos Aires,8,521.29
+661,29,Femenino,Otros,12,487.91
+662,61,Femenino,Buenos Aires,26,722.97
+663,65,Femenino,Rosario,8,135.23
+664,53,Femenino,Cordoba,3,662.61
+665,55,Masculino,Cordoba,13,635.55
+666,21,Femenino,Otros,19,271.94
+667,37,Femenino,Rosario,2,565.27
+668,32,Masculino,Santa Fe,17,261.1
+669,24,Masculino,Buenos Aires,16,189.58
+670,39,Masculino,Santa Fe,4,594.48
+671,21,Femenino,Rosario,18,978.6
+672,30,Femenino,Otros,14,275.09
+673,49,Femenino,Rosario,2,387.57
+674,51,Otro,Otros,13,293.74
+675,51,Masculino,Santa Fe,27,303.14
+676,69,Femenino,Santa Fe,27,433.98
+677,57,Femenino,Rosario,21,716.76
+678,47,Masculino,Rosario,20,86.86
+679,29,Otro,Cordoba,17,959.27
+680,41,Masculino,Otros,15,93.97
+681,36,Femenino,Cordoba,25,887.19
+682,41,Femenino,Buenos Aires,20,899.66
+683,62,Femenino,Buenos Aires,5,548.26
+684,38,Femenino,Rosario,7,180.15
+685,36,Masculino,Santa Fe,18,586.89
+686,43,Femenino,Buenos Aires,24,647.2
+687,55,Masculino,Buenos Aires,11,864.87
+688,51,Femenino,Cordoba,18,573.35
+689,65,Femenino,Cordoba,27,440.17
+690,55,Femenino,Buenos Aires,26,846.38
+691,47,Masculino,Rosario,5,981.9
+692,33,Femenino,Cordoba,13,662.85
+693,55,Femenino,Buenos Aires,28,880.67
+694,25,Femenino,Santa Fe,18,618.8
+695,28,Masculino,Cordoba,2,705.3
+696,40,Masculino,Buenos Aires,20,703.76
+697,31,Masculino,Otros,4,719.55
+698,49,Femenino,Cordoba,13,354.96
+699,50,Femenino,Otros,24,596.88
+700,59,Otro,Cordoba,29,614.43
+701,23,Masculino,Cordoba,16,349.32
+702,50,Masculino,Otros,6,382.36
+703,46,Femenino,Rosario,26,774.13
+704,44,Femenino,Buenos Aires,8,603.59
+705,24,Femenino,Rosario,16,191.75
+706,25,Femenino,Rosario,13,845.76
+707,24,Masculino,Buenos Aires,23,888.96
+708,46,Femenino,Santa Fe,29,492.83
+709,27,Femenino,Rosario,26,248.46
+710,28,Femenino,Rosario,4,950.23
+711,34,Masculino,Rosario,2,888.16
+712,55,Masculino,Santa Fe,9,282.16
+713,60,Masculino,Cordoba,18,140.81
+714,26,Femenino,Otros,17,468.62
+715,51,Masculino,Otros,8,692.58
+716,27,Masculino,Santa Fe,26,216.62
+717,66,Masculino,Rosario,15,537.55
+718,34,Femenino,Otros,9,454.14
+719,56,Masculino,Santa Fe,17,896.02
+720,38,Femenino,Buenos Aires,23,458.09
+721,58,Masculino,Otros,2,557.09
+722,25,Masculino,Buenos Aires,6,957.52
+723,38,Femenino,Rosario,29,334.71
+724,47,Masculino,Otros,27,324.54
+725,36,Masculino,Santa Fe,5,809.62
+726,61,Masculino,Cordoba,17,313.66
+727,38,Femenino,Otros,2,840.27
+728,50,Femenino,Otros,18,140.76
+729,30,Masculino,Otros,10,155.7
+730,34,Masculino,Otros,10,906.26
+731,29,Otro,Santa Fe,6,563.77
+732,62,Femenino,Santa Fe,27,732.87
+733,42,Masculino,Cordoba,12,264.02
+734,22,Femenino,Santa Fe,17,207.96
+735,22,Femenino,Santa Fe,27,843.21
+736,37,Femenino,Rosario,13,390.69
+737,44,Masculino,Rosario,20,482.28
+738,62,Masculino,Buenos Aires,28,76.57
+739,39,Masculino,Cordoba,16,416.59
+740,48,Femenino,Rosario,10,781.92
+741,41,Femenino,Cordoba,27,830.21
+742,69,Masculino,Cordoba,21,713.82
+743,34,Femenino,Otros,2,707.57
+744,58,Femenino,Cordoba,2,530.93
+745,29,Otro,Otros,23,561.41
+746,40,Femenino,Buenos Aires,7,755.5
+747,48,Otro,Buenos Aires,6,284.94
+748,51,Masculino,Buenos Aires,1,269.94
+749,29,Femenino,Otros,12,952.43
+750,32,Femenino,Otros,13,76.31
+751,66,Masculino,Buenos Aires,12,182.49
+752,42,Masculino,Otros,19,591.82
+753,69,Otro,Santa Fe,9,750.94
+754,42,Masculino,Santa Fe,10,561.0
+755,50,Femenino,Otros,17,387.31
+756,23,Masculino,Otros,18,979.08
+757,68,Masculino,Rosario,8,718.66
+758,22,Masculino,Rosario,7,839.82
+759,40,Masculino,Cordoba,9,88.23
+760,21,Femenino,Cordoba,10,274.12
+761,23,Femenino,Cordoba,12,405.46
+762,20,Masculino,Buenos Aires,15,223.47
+763,34,Masculino,Santa Fe,15,119.25
+764,52,Masculino,Buenos Aires,28,263.84
+765,25,Masculino,Otros,4,556.95
+766,26,Femenino,Rosario,4,710.96
+767,38,Masculino,Otros,23,785.32
+768,63,Masculino,Otros,1,90.79
+769,20,Femenino,Rosario,26,456.59
+770,58,Masculino,Otros,12,166.1
+771,38,Masculino,Cordoba,25,459.64
+772,64,Masculino,Rosario,2,462.28
+773,45,Femenino,Otros,15,523.3
+774,63,Femenino,Cordoba,17,898.19
+775,31,Femenino,Cordoba,7,814.84
+776,41,Masculino,Santa Fe,6,654.88
+777,32,Masculino,Cordoba,12,891.14
+778,47,Femenino,Buenos Aires,19,694.55
+779,33,Femenino,Rosario,1,827.91
+780,41,Otro,Rosario,28,585.59
+781,49,Masculino,Rosario,21,548.96
+782,63,Masculino,Otros,26,737.89
+783,39,Femenino,Otros,14,68.7
+784,63,Femenino,Buenos Aires,4,705.86
+785,46,Femenino,Cordoba,5,937.79
+786,57,Femenino,Otros,1,728.24
+787,61,Femenino,Cordoba,1,84.95
+788,60,Femenino,Cordoba,21,408.99
+789,53,Femenino,Otros,6,819.1
+790,58,Otro,Otros,5,960.68
+791,60,Femenino,Buenos Aires,2,401.66
+792,63,Masculino,Santa Fe,25,849.13
+793,56,Masculino,Rosario,21,870.62
+794,20,Femenino,Otros,27,167.12
+795,34,Masculino,Otros,27,853.5
+796,51,Femenino,Cordoba,5,358.04
+797,27,Masculino,Santa Fe,26,613.58
+798,52,Masculino,Otros,9,562.01
+799,37,Femenino,Santa Fe,19,679.9
+800,64,Masculino,Rosario,21,753.44
+801,48,Masculino,Cordoba,15,468.84
+802,51,Masculino,Buenos Aires,13,893.9
+803,52,Femenino,Rosario,12,819.02
+804,24,Masculino,Santa Fe,5,796.15
+805,37,Femenino,Santa Fe,2,485.33
+806,67,Masculino,Rosario,27,85.69
+807,29,Femenino,Santa Fe,4,517.64
+808,55,Masculino,Buenos Aires,27,903.52
+809,52,Masculino,Buenos Aires,27,230.93
+810,42,Masculino,Santa Fe,18,983.46
+811,59,Masculino,Santa Fe,21,817.31
+812,24,Femenino,Buenos Aires,10,724.34
+813,53,Masculino,Santa Fe,13,693.3
+814,43,Masculino,Otros,12,607.67
+815,36,Femenino,Cordoba,2,734.64
+816,50,Masculino,Otros,26,450.81
+817,26,Masculino,Santa Fe,15,853.02
+818,36,Femenino,Santa Fe,14,711.53
+819,47,Femenino,Cordoba,25,782.69
+820,57,Masculino,Santa Fe,10,802.86
+821,41,Masculino,Cordoba,22,137.47
+822,34,Otro,Buenos Aires,8,102.86
+823,56,Masculino,Cordoba,25,810.94
+824,34,Otro,Cordoba,15,296.41
+825,69,Masculino,Otros,13,602.87
+826,69,Femenino,Santa Fe,8,471.53
+827,44,Masculino,Buenos Aires,21,70.94
+828,40,Femenino,Rosario,21,88.27
+829,57,Masculino,Cordoba,22,835.77
+830,21,Femenino,Rosario,14,627.29
+831,46,Masculino,Santa Fe,1,547.65
+832,68,Masculino,Cordoba,13,947.13
+833,51,Femenino,Rosario,27,214.46
+834,40,Femenino,Otros,8,295.07
+835,23,Femenino,Rosario,18,768.9
+836,63,Masculino,Otros,22,786.47
+837,38,Femenino,Buenos Aires,9,434.65
+838,21,Masculino,Santa Fe,13,953.43
+839,45,Otro,Rosario,3,941.34
+840,53,Femenino,Cordoba,18,61.79
+841,33,Masculino,Santa Fe,10,213.71
+842,34,Femenino,Rosario,5,829.21
+843,39,Femenino,Cordoba,27,368.46
+844,53,Masculino,Cordoba,25,140.69
+845,55,Femenino,Cordoba,6,795.75
+846,38,Masculino,Cordoba,8,481.85
+847,28,Femenino,Rosario,24,517.79
+848,26,Masculino,Buenos Aires,7,227.05
+849,49,Masculino,Otros,21,677.85
+850,32,Masculino,Otros,18,573.68
+851,46,Femenino,Otros,14,246.34
+852,63,Femenino,Buenos Aires,15,373.31
+853,54,Otro,Cordoba,10,617.04
+854,32,Masculino,Cordoba,26,928.63
+855,34,Masculino,Santa Fe,21,924.36
+856,65,Femenino,Otros,12,323.51
+857,28,Femenino,Otros,7,748.84
+858,64,Masculino,Cordoba,28,786.74
+859,42,Masculino,Otros,28,818.38
+860,55,Femenino,Cordoba,7,592.22
+861,59,Masculino,Cordoba,11,59.98
+862,22,Femenino,Cordoba,13,773.59
+863,53,Femenino,Rosario,15,151.27
+864,38,Femenino,Rosario,18,161.03
+865,47,Femenino,Rosario,7,625.34
+866,42,Masculino,Rosario,6,984.34
+867,59,Femenino,Buenos Aires,23,280.41
+868,68,Femenino,Santa Fe,11,663.52
+869,64,Masculino,Santa Fe,8,338.47
+870,26,Femenino,Cordoba,20,903.79
+871,60,Masculino,Otros,1,613.84
+872,31,Femenino,Rosario,8,247.1
+873,33,Masculino,Santa Fe,8,299.02
+874,65,Femenino,Santa Fe,19,460.86
+875,34,Masculino,Rosario,3,165.94
+876,22,Masculino,Buenos Aires,5,124.8
+877,34,Otro,Buenos Aires,3,696.06
+878,43,Femenino,Santa Fe,15,436.81
+879,65,Masculino,Buenos Aires,14,739.91
+880,27,Masculino,Rosario,21,154.56
+881,24,Masculino,Santa Fe,15,629.37
+882,23,Femenino,Rosario,24,471.14
+883,33,Femenino,Buenos Aires,17,105.1
+884,35,Femenino,Rosario,18,567.56
+885,39,Femenino,Buenos Aires,2,128.66
+886,43,Femenino,Buenos Aires,12,836.33
+887,25,Masculino,Rosario,16,650.36
+888,50,Masculino,Buenos Aires,4,579.12
+889,25,Femenino,Cordoba,25,176.8
+890,54,Femenino,Rosario,2,323.08
+891,34,Femenino,Cordoba,28,518.23
+892,48,Femenino,Rosario,14,651.62
+893,22,Femenino,Buenos Aires,11,224.07
+894,30,Femenino,Buenos Aires,13,58.42
+895,22,Masculino,Santa Fe,28,377.52
+896,47,Masculino,Santa Fe,25,508.73
+897,29,Otro,Cordoba,7,225.21
+898,69,Femenino,Buenos Aires,10,517.56
+899,52,Masculino,Santa Fe,24,371.56
+900,67,Masculino,Buenos Aires,1,482.34
+901,35,Masculino,Rosario,29,380.08
+902,29,Masculino,Santa Fe,21,647.04
+903,52,Femenino,Cordoba,25,90.75
+904,55,Masculino,Santa Fe,28,212.36
+905,22,Femenino,Buenos Aires,4,461.11
+906,24,Masculino,Otros,18,388.48
+907,31,Femenino,Otros,6,422.05
+908,63,Masculino,Buenos Aires,2,813.57
+909,32,Femenino,Rosario,3,892.02
+910,43,Femenino,Santa Fe,14,286.24
+911,63,Femenino,Otros,8,844.57
+912,51,Masculino,Rosario,16,485.85
+913,35,Masculino,Buenos Aires,19,310.13
+914,51,Masculino,Rosario,18,986.18
+915,64,Masculino,Buenos Aires,6,833.56
+916,56,Femenino,Santa Fe,14,994.54
+917,55,Femenino,Rosario,3,209.78
+918,40,Femenino,Santa Fe,16,186.65
+919,66,Femenino,Rosario,1,528.21
+920,31,Masculino,Buenos Aires,12,656.71
+921,40,Masculino,Buenos Aires,14,212.51
+922,40,Masculino,Rosario,19,867.41
+923,62,Femenino,Buenos Aires,22,555.41
+924,25,Femenino,Cordoba,19,440.39
+925,28,Masculino,Cordoba,9,621.95
+926,20,Masculino,Santa Fe,7,653.21
+927,31,Femenino,Cordoba,14,90.64
+928,33,Femenino,Cordoba,5,999.9
+929,25,Femenino,Otros,18,395.72
+930,20,Masculino,Otros,9,108.47
+931,41,Masculino,Otros,21,859.71
+932,53,Otro,Otros,7,993.37
+933,30,Femenino,Buenos Aires,9,825.54
+934,22,Masculino,Santa Fe,4,859.29
+935,61,Femenino,Santa Fe,25,644.64
+936,25,Femenino,Cordoba,17,926.21
+937,25,Masculino,Santa Fe,12,83.95
+938,39,Masculino,Cordoba,6,778.39
+939,40,Masculino,Santa Fe,18,687.17
+940,21,Masculino,Rosario,8,97.11
+941,45,Femenino,Rosario,21,566.77
+942,50,Masculino,Santa Fe,15,539.31
+943,45,Femenino,Buenos Aires,3,706.96
+944,51,Otro,Cordoba,2,123.65
+945,29,Masculino,Santa Fe,24,815.01
+946,42,Masculino,Cordoba,23,182.43
+947,25,Femenino,Otros,9,447.73
+948,42,Femenino,Santa Fe,8,887.22
+949,47,Femenino,Buenos Aires,27,582.51
+950,68,Masculino,Otros,4,410.61
+951,49,Masculino,Santa Fe,2,95.79
+952,33,Femenino,Rosario,14,688.66
+953,56,Otro,Santa Fe,29,987.22
+954,51,Masculino,Rosario,2,916.21
+955,68,Femenino,Rosario,2,731.43
+956,53,Masculino,Santa Fe,27,150.03
+957,60,Otro,Santa Fe,28,277.47
+958,63,Femenino,Rosario,22,227.51
+959,41,Masculino,Cordoba,7,387.69
+960,50,Femenino,Otros,12,273.74
+961,26,Masculino,Buenos Aires,6,282.22
+962,60,Masculino,Santa Fe,18,635.89
+963,40,Masculino,Otros,4,352.77
+964,35,Masculino,Otros,19,693.3
+965,39,Masculino,Cordoba,27,950.5
+966,62,Femenino,Otros,13,656.55
+967,63,Femenino,Santa Fe,20,764.07
+968,66,Masculino,Otros,21,764.0
+969,69,Femenino,Santa Fe,23,364.17
+970,38,Femenino,Santa Fe,25,64.21
+971,67,Otro,Rosario,27,102.3
+972,51,Femenino,Cordoba,2,317.96
+973,34,Masculino,Buenos Aires,8,705.07
+974,24,Masculino,Rosario,19,911.35
+975,30,Femenino,Buenos Aires,9,960.86
+976,34,Masculino,Santa Fe,26,74.56
+977,48,Masculino,Rosario,28,990.58
+978,69,Masculino,Otros,4,356.37
+979,64,Masculino,Otros,16,850.81
+980,23,Masculino,Buenos Aires,19,221.28
+981,68,Femenino,Santa Fe,10,109.75
+982,55,Masculino,Buenos Aires,6,409.44
+983,67,Femenino,Cordoba,16,865.98
+984,42,Femenino,Otros,10,259.78
+985,34,Masculino,Rosario,13,196.26
+986,65,Masculino,Rosario,9,914.31
+987,63,Masculino,Rosario,7,941.42
+988,22,Masculino,Otros,4,61.92
+989,51,Masculino,Santa Fe,19,741.06
+990,29,Masculino,Otros,26,343.75
+991,59,Femenino,Otros,4,405.97
+992,57,Femenino,Rosario,19,495.65
+993,41,Masculino,Otros,28,455.45
+994,33,Masculino,Rosario,19,539.23
+995,36,Femenino,Santa Fe,12,603.24
+996,40,Femenino,Cordoba,13,492.32
+997,67,Femenino,Rosario,25,716.49
+998,34,Femenino,Buenos Aires,4,732.67
+999,34,Masculino,Cordoba,25,468.34
+1000,20,Masculino,Santa Fe,28,185.34

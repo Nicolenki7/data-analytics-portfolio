@@ -1,187 +1,73 @@
-# 🌟 Análisis Monchique Resort & Spa - Portugal
+# 🌟 Análisis de Datos para Monchique Resort & Spa: Optimización de Lujo y Experiencia del Cliente
 
-<div align="center">
+## 🎯 Objetivo del Proyecto
 
-![Luxury Resort](https://img.shields.io/badge/Luxury-Resort-FFD700?style=for-the-badge&logo=star&logoColor=black)
-![5 Stars](https://img.shields.io/badge/5-Stars-FF6B6B?style=for-the-badge&logo=award&logoColor=white)
-![Spa Analytics](https://img.shields.io/badge/Spa-Analytics-4ECDC4?style=for-the-badge&logo=spa&logoColor=white)
+Este proyecto se enfoca en el análisis de datos para el **Monchique Resort & Spa**, un hotel de lujo de 5 estrellas en Monchique, Portugal. El objetivo principal es optimizar la gestión de ingresos, mejorar la experiencia del cliente y maximizar la rentabilidad a través de un análisis profundo de la ocupación hotelera, los servicios de spa y la satisfacción de los huéspedes.
 
-</div>
+## 📊 Datasets Utilizados (Simulados)
 
-## 📋 Resumen del Proyecto
+Se han generado datasets simulados para representar:
+- **Ocupación y Revenue**: Datos diarios de habitaciones disponibles, ocupadas, ADR (Average Daily Rate) y RevPAR (Revenue per Available Room).
+- **Servicios de Spa**: Información sobre los ingresos y la duración de los diferentes servicios de spa.
+- **Satisfacción del Cliente**: Ratings generales, de servicio e instalaciones, junto con indicadores de comentarios positivos/negativos.
 
-Análisis integral de **Monchique Resort & Spa**, un resort de lujo 5 estrellas ubicado en las montañas del Algarve, Portugal. Este proyecto se enfoca en el análisis de servicios premium, spa analytics y optimización de la experiencia de huéspedes en un entorno de lujo.
+## 📈 Análisis y Visualizaciones Clave
 
-### 🎯 Objetivos
-- Analizar performance de servicios premium y spa
-- Optimizar estrategias de upselling y cross-selling
-- Evaluar satisfacción en experiencias de lujo
-- Desarrollar KPIs específicos para resort 5 estrellas
+### 🏨 Ocupación y Revenue Management
 
----
+#### Tendencia Mensual de Tasa de Ocupación
 
-## 🏔️ Información del Resort
+Este gráfico muestra la evolución de la tasa de ocupación promedio a lo largo de los meses, identificando patrones estacionales y picos de demanda.
 
-**Monchique Resort & Spa** - Serra de Monchique, Algarve
-- 🌟 **Categoría**: 5 estrellas de lujo
-- 🏠 **Suites**: 92 suites espaciosas
-- 📍 **Ubicación**: Montañas del Algarve con vistas panorámicas
-- 🧘 **Spa**: Spa de clase mundial con tratamientos exclusivos
-- 🏊 **Amenidades**: 2 piscinas exteriores, 2 restaurantes gourmet
-- 🌿 **Enfoque**: Lujo, naturaleza y bienestar
+![Tendencia Mensual de Tasa de Ocupación](visualizations/monchique_occupancy_trend.png)
 
----
+#### Distribución del ADR (Average Daily Rate)
 
-## 📊 Análisis Realizados
+Visualización de la distribución del ADR, que ayuda a entender la estrategia de precios y su variabilidad.
 
-### 1. 💎 Premium Services Analytics
-- **Suite Occupancy**: Análisis de ocupación por categoría de suite
-- **Premium ADR**: Tarifas promedio para servicios de lujo
-- **Upselling Performance**: Efectividad de estrategias de upselling
-- **Luxury Experience Metrics**: KPIs específicos de experiencia premium
+![Distribución del ADR](visualizations/monchique_adr_distribution.png)
 
-### 2. 🧘 Spa & Wellness Analytics
-- **Spa Revenue**: Análisis detallado de ingresos por tratamientos
-- **Treatment Popularity**: Tratamientos más demandados
-- **Spa Utilization**: Tasas de utilización de instalaciones
-- **Wellness Packages**: Performance de paquetes integrales
+### 💆‍♀️ Análisis de Servicios de Spa
 
-### 3. 🍽️ F&B Premium Analysis
-- **Restaurant Performance**: Análisis de restaurantes gourmet
-- **Wine Program**: Performance del programa de vinos
-- **Private Dining**: Servicios de cenas privadas
-- **Culinary Experiences**: Experiencias gastronómicas exclusivas
+#### Ingresos Totales por Servicio de Spa
 
-### 4. 🌟 Guest Experience Excellence
-- **Luxury Service Metrics**: Evaluación de servicios premium
-- **Concierge Analytics**: Performance del servicio de conserjería
-- **Guest Journey Mapping**: Análisis del journey del huésped
-- **Loyalty Program**: Análisis de programa de fidelización
+Gráfico de barras que detalla los ingresos generados por cada tipo de servicio de spa, permitiendo identificar los servicios más rentables.
 
----
+![Ingresos por Servicio de Spa](visualizations/monchique_spa_revenue.png)
+
+#### Duración Promedio por Servicio de Spa
+
+Análisis de la duración promedio de cada servicio de spa, útil para la planificación de recursos y la optimización de horarios.
+
+![Duración Promedio por Servicio de Spa](visualizations/monchique_spa_duration.png)
+
+### ⭐ Satisfacción del Cliente
+
+#### Distribución de Ratings Generales de Huéspedes
+
+Este gráfico de barras muestra la frecuencia de cada rating general (1-5 estrellas), indicando el nivel de satisfacción predominante.
+
+![Distribución de Ratings Generales](visualizations/monchique_guest_ratings.png)
+
+#### Matriz de Correlación de Ratings y Comentarios
+
+Mapa de calor que visualiza las correlaciones entre los diferentes tipos de ratings y la presencia de comentarios positivos/negativos, revelando qué aspectos influyen más en la percepción del cliente.
+
+![Matriz de Correlación de Ratings](visualizations/monchique_ratings_correlation.png)
 
 ## 🛠️ Tecnologías Utilizadas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- **Python**: Lenguaje principal para el análisis de datos.
+- **Pandas**: Manipulación y análisis de datos.
+- **Matplotlib & Seaborn**: Creación de visualizaciones estáticas y atractivas.
 
----
+## 💡 Insights Clave para Reclutadores
 
-## 📁 Estructura del Proyecto
+- **Habilidad en Revenue Management**: Demuestra capacidad para analizar métricas clave (ADR, RevPAR, Ocupación) y optimizar estrategias de precios.
+- **Análisis de Experiencia del Cliente**: Competencia en la interpretación de datos de satisfacción para mejorar servicios y fidelización.
+- **Visualización de Datos**: Creación de gráficos claros y concisos que comunican insights complejos de manera efectiva.
+- **Pensamiento Analítico**: Capacidad para transformar datos brutos en información accionable para la toma de decisiones estratégicas en el sector hotelero de lujo.
+- **Gestión de Datos**: Experiencia en la preparación y limpieza de datos para el análisis.
 
-```
-02-monchique-resort-analysis/
-├── data/
-│   ├── suite_occupancy_2023.csv
-│   ├── spa_analytics.csv
-│   ├── fb_revenue.csv
-│   └── guest_experience.csv
-├── notebooks/
-│   ├── 01_luxury_analytics.ipynb
-│   ├── 02_spa_performance.ipynb
-│   ├── 03_fb_analysis.ipynb
-│   └── 04_guest_experience.ipynb
-├── visualizations/
-│   ├── luxury_dashboard.png
-│   ├── spa_analytics.png
-│   └── guest_journey.png
-├── reports/
-│   └── monchique_resort_analysis.pdf
-└── README.md
-```
-
----
-
-## 🔍 Hallazgos Clave
-
-### 📊 Métricas de Lujo
-- **Ocupación Promedio**: 82.3% (premium para categoría 5*)
-- **ADR Promedio**: €285.50 (competitivo en segmento lujo)
-- **RevPAR**: €235.12 (excelente para resort montaña)
-- **Guest Satisfaction**: 9.2/10 (excepcional para lujo)
-
-### 🎯 Oportunidades Premium
-1. **Spa Upselling**: Potencial incremento del 22% en revenue spa
-2. **Suite Upgrades**: Optimización de upgrades automáticos
-3. **Experiencias Exclusivas**: Desarrollo de paquetes únicos
-4. **Programa VIP**: Expansión del programa de huéspedes VIP
-
-### 📈 Recomendaciones de Lujo
-- Implementar dynamic pricing para suites premium
-- Desarrollar experiencias gastronómicas exclusivas
-- Crear paquetes wellness personalizados
-- Optimizar programa de concierge digital
-
----
-
-## 📊 Visualizaciones Destacadas
-
-### 1. Dashboard de Lujo Interactivo
-Métricas en tiempo real de performance premium y servicios de lujo.
-
-### 2. Spa Analytics Avanzado
-Análisis detallado de utilización, revenue y satisfacción del spa.
-
-### 3. Guest Journey Premium
-Mapeo completo del journey del huésped en experiencia de lujo.
-
-### 4. Revenue Optimization
-Análisis de oportunidades de upselling y cross-selling.
-
----
-
-## 🚀 Impacto del Proyecto
-
-### 💰 Resultados Financieros Proyectados
-- **Incremento Revenue Spa**: +22% (€125,000 adicionales)
-- **Optimización Upselling**: +18% en conversión a suites premium
-- **Revenue Anual Adicional**: €420,000 estimados
-
-### 📈 Mejoras en Experiencia
-- Dashboard de lujo para monitoreo en tiempo real
-- Sistema predictivo para preferencias de huéspedes
-- Automatización de servicios personalizados
-
----
-
-## 📞 Metodología Premium
-
-1. **Data Collection**: Integración de sistemas premium (PMS, Spa, F&B)
-2. **Luxury Metrics**: Desarrollo de KPIs específicos para lujo
-3. **Advanced Analytics**: Modelos predictivos para comportamiento premium
-4. **Experience Mapping**: Análisis detallado del guest journey
-5. **Premium Visualization**: Dashboards ejecutivos interactivos
-6. **Strategic Recommendations**: Estrategias basadas en insights de lujo
-
----
-
-## 🌟 Características Únicas del Análisis
-
-### 🎯 Enfoque en Lujo
-- Métricas específicas para segmento premium
-- Análisis de comportamiento de huéspedes VIP
-- Evaluación de servicios exclusivos
-
-### 🧘 Spa & Wellness Focus
-- Analytics específicos para industria del bienestar
-- Análisis de tendencias en wellness tourism
-- Optimización de tratamientos y terapias
-
-### 🏔️ Mountain Resort Dynamics
-- Análisis de estacionalidad única de montaña
-- Factores climáticos en ocupación
-- Turismo de naturaleza y aventura
-
----
-
-<div align="center">
-
-### 🌟 *"Elevando la experiencia de lujo a través del análisis de datos avanzado"*
-
-[📊 Ver Análisis Completo](./notebooks/) | [📈 Dashboard Interactivo](./visualizations/) | [📄 Reporte Ejecutivo](./reports/)
-
-</div>
+Este proyecto es un ejemplo de cómo el análisis de datos puede ser aplicado para impulsar el éxito en la industria hotelera de lujo, enfocándose en la optimización de ingresos y la excelencia en el servicio al cliente.
 

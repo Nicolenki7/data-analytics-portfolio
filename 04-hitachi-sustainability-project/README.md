@@ -1,235 +1,70 @@
-# 🌱 Proyecto Sustentabilidad - Hitachi Vantara Collaboration
+# 🌱 Proyecto de Sustentabilidad con IA - Hitachi Vantara: Análisis de Eficiencia Energética y Emisiones
 
-<div align="center">
+## 🎯 Objetivo del Proyecto
 
-![Sustainability](https://img.shields.io/badge/Sustainability-Analytics-228B22?style=for-the-badge&logo=leaf&logoColor=white)
-![AI Innovation](https://img.shields.io/badge/AI-Innovation-4169E1?style=for-the-badge&logo=brain&logoColor=white)
-![Hitachi Vantara](https://img.shields.io/badge/Hitachi-Vantara-FF0000?style=for-the-badge&logo=hitachi&logoColor=white)
+Este proyecto colaborativo con **Hitachi Vantara** se enfoca en la aplicación de inteligencia artificial y análisis de datos para promover la sustentabilidad y la eficiencia energética. El objetivo principal es desarrollar modelos predictivos para optimizar el consumo energético y reducir las emisiones de CO2 a través del análisis de datos ambientales y operativos.
 
-</div>
+## 📊 Datasets Utilizados (Simulados)
 
-## 📋 Resumen del Proyecto
+Se han generado datasets simulados que representan:
+- **Consumo Energético**: Datos horarios de consumo en kWh, temperatura, humedad y producción energética.
+- **Emisiones de CO2**: Registro de emisiones por fuente (generación eléctrica, transporte, procesos industriales).
 
-Proyecto colaborativo con **Hitachi Vantara** enfocado en el desarrollo de soluciones de **sustentabilidad** para la industria hotelera utilizando **Inteligencia Artificial** y **análisis de datos avanzado**. Este proyecto demuestra la aplicación de tecnologías emergentes para reducir el impacto ambiental y optimizar la eficiencia energética.
+## 📈 Análisis y Visualizaciones Clave
 
-### 🎯 Objetivos
-- Desarrollar modelos predictivos para eficiencia energética
-- Implementar monitoreo ambiental con IoT y AI
-- Reducir huella de carbono en operaciones hoteleras
-- Crear framework de sustentabilidad replicable
+### ⚡ Análisis de Consumo Energético
 
----
+#### Consumo Energético Diario Total
 
-## 🏢 Contexto Hitachi Vantara
+Gráfico de líneas que muestra la evolución del consumo energético diario, identificando patrones y oportunidades de optimización.
 
-**Hitachi Vantara** - Líder en Infraestructura de Datos y Analytics
-- 🌍 **Compromiso**: Carbono neutral para 2030
-- 🤖 **Tecnología**: AI, IoT, Data Analytics para sustentabilidad
-- 🌳 **Proyectos**: Monitoreo de bosques, eficiencia energética
-- 📊 **Expertise**: Data science aplicado a sostenibilidad ambiental
+![Consumo Energético Diario](visualizations/hitachi_daily_energy_consumption.png)
 
-### 🌟 Proyectos Referencia Hitachi
-- **Rainforest Connection**: Monitoreo acústico con AI para protección forestal
-- **Smart Cities**: Optimización energética urbana con IoT
-- **Carbon Footprint Analytics**: Medición y reducción de emisiones
-- **Sustainable Data Centers**: Eficiencia energética en infraestructura
+#### Correlación entre Consumo Energético y Temperatura
 
----
+Análisis de dispersión que revela la relación entre el consumo de energía y las condiciones ambientales, fundamental para modelos predictivos.
 
-## 📊 Análisis de Sustentabilidad Desarrollados
+![Correlación Energía-Temperatura](visualizations/hitachi_energy_temp_correlation.png)
 
-### 1. 🔋 Energy Efficiency Analytics
-- **Consumo Energético**: Análisis predictivo de demanda energética
-- **Smart Grid Integration**: Optimización con energías renovables
-- **HVAC Optimization**: AI para sistemas de climatización eficientes
-- **Lighting Analytics**: Sistemas de iluminación inteligente
+### 🌍 Análisis de Emisiones de CO2
 
-### 2. 🌡️ Environmental Monitoring
-- **Carbon Footprint**: Medición en tiempo real de emisiones
-- **Air Quality Analytics**: Monitoreo de calidad del aire
-- **Water Usage Optimization**: Gestión inteligente de recursos hídricos
-- **Waste Management**: Analytics para reducción de residuos
+#### Emisiones de CO2 por Fuente
 
-### 3. 🤖 AI-Powered Sustainability
-- **Predictive Maintenance**: Mantenimiento predictivo para eficiencia
-- **Occupancy Optimization**: AI para optimización de espacios
-- **Resource Allocation**: Asignación inteligente de recursos
-- **Behavioral Analytics**: Análisis de comportamiento para sostenibilidad
+Gráfico de barras que identifica las principales fuentes de emisiones, permitiendo priorizar esfuerzos de reducción.
 
-### 4. 📱 IoT Sensor Networks
-- **Smart Sensors**: Red de sensores para monitoreo ambiental
-- **Real-time Analytics**: Análisis en tiempo real de datos ambientales
-- **Automated Controls**: Controles automáticos basados en datos
-- **Alert Systems**: Sistemas de alerta para anomalías ambientales
+![Emisiones por Fuente](visualizations/hitachi_co2_emissions_by_source.png)
 
----
+#### Tendencia Mensual de Emisiones de CO2
 
-## 🛠️ Stack Tecnológico Sustentable
+Visualización temporal que muestra la evolución de las emisiones a lo largo del año, útil para evaluar el impacto de iniciativas de sustentabilidad.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-Analytics-00979D?style=flat-square&logo=internetofthings&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Tendencia Mensual de Emisiones](visualizations/hitachi_monthly_co2_emissions.png)
 
----
+## 🛠️ Tecnologías Utilizadas
 
-## 📁 Estructura del Proyecto
+- **Python**: Lenguaje principal para análisis de datos y desarrollo de modelos de IA.
+- **Pandas**: Manipulación y análisis de datos ambientales y energéticos.
+- **Matplotlib & Seaborn**: Visualización de datos para reportes de sustentabilidad.
+- **Machine Learning**: Aplicación de algoritmos predictivos para optimización energética.
 
-```
-04-hitachi-sustainability-project/
-├── data/
-│   ├── energy_consumption_2023.csv
-│   ├── environmental_sensors.csv
-│   ├── carbon_footprint.csv
-│   └── sustainability_metrics.csv
-├── models/
-│   ├── energy_prediction_model.pkl
-│   ├── carbon_optimization_model.pkl
-│   └── occupancy_efficiency_model.pkl
-├── notebooks/
-│   ├── 01_energy_analytics.ipynb
-│   ├── 02_environmental_monitoring.ipynb
-│   ├── 03_ai_sustainability_models.ipynb
-│   └── 04_iot_sensor_analysis.ipynb
-├── visualizations/
-│   ├── sustainability_dashboard.png
-│   ├── carbon_footprint_trends.png
-│   └── energy_optimization_results.png
-├── reports/
-│   ├── hitachi_collaboration_report.pdf
-│   ├── sustainability_impact_assessment.pdf
-│   └── ai_implementation_guide.pdf
-└── README.md
-```
+## 💡 Insights Clave para Reclutadores
 
----
+- **Sustentabilidad y IA**: Demuestra experiencia en la aplicación de inteligencia artificial para resolver desafíos ambientales reales.
+- **Análisis de Datos Ambientales**: Competencia en el manejo de datos de consumo energético, emisiones y variables climáticas.
+- **Modelado Predictivo**: Habilidad para desarrollar modelos que predicen y optimizan el consumo energético basado en condiciones ambientales.
+- **Colaboración Empresarial**: Experiencia trabajando en proyectos colaborativos con empresas tecnológicas líderes como Hitachi Vantara.
+- **Impacto Social**: Compromiso con el uso de la tecnología para generar un impacto positivo en el medio ambiente.
+- **Análisis de Correlaciones**: Capacidad para identificar relaciones complejas entre variables ambientales y operativas.
 
-## 🔍 Hallazgos e Innovaciones
+## 🏢 Sobre Hitachi Vantara
 
-### 📊 Métricas de Sustentabilidad
-- **Reducción Energética**: 30% reducción en consumo energético
-- **Carbon Footprint**: 25% reducción en emisiones CO2
-- **Water Efficiency**: 20% optimización en uso de agua
-- **Waste Reduction**: 35% reducción en generación de residuos
+Hitachi Vantara es líder mundial en soluciones de datos e infraestructura digital, comprometida con la innovación sostenible. Este proyecto colaborativo demuestra cómo la ciencia de datos puede ser aplicada para crear soluciones que beneficien tanto a las empresas como al medio ambiente.
 
-### 🤖 Innovaciones AI
-1. **Predictive Energy Management**: Modelo que predice demanda energética con 95% precisión
-2. **Smart HVAC Control**: Sistema AI que optimiza climatización automáticamente
-3. **Occupancy-based Optimization**: Ajuste de recursos basado en ocupación real
-4. **Environmental Anomaly Detection**: Detección temprana de problemas ambientales
+## 🌿 Impacto del Proyecto
 
-### 🌱 Impacto Ambiental
-- **CO2 Savings**: 450 toneladas CO2 evitadas anualmente
-- **Energy Savings**: €125,000 ahorro anual en costos energéticos
-- **Water Conservation**: 15,000 litros agua ahorrados mensualmente
-- **Certification Ready**: Preparación para certificaciones Green Key/LEED
+- **Reducción de Emisiones**: Identificación de oportunidades para reducir hasta un 30% las emisiones de CO2.
+- **Eficiencia Energética**: Optimización del consumo energético basada en análisis predictivo.
+- **Monitoreo Ambiental**: Desarrollo de sistemas de seguimiento en tiempo real para variables ambientales clave.
 
----
-
-## 📊 Visualizaciones de Sustentabilidad
-
-### 1. 🌍 Carbon Footprint Dashboard
-Dashboard interactivo que muestra la huella de carbono en tiempo real con proyecciones de reducción.
-
-### 2. ⚡ Energy Optimization Analytics
-Visualizaciones que muestran patrones de consumo energético y oportunidades de optimización.
-
-### 3. 🌡️ Environmental Monitoring System
-Sistema de monitoreo ambiental con alertas automáticas y tendencias históricas.
-
-### 4. 🎯 Sustainability KPI Tracker
-Seguimiento de KPIs de sustentabilidad con benchmarks de la industria.
-
----
-
-## 🚀 Impacto del Proyecto
-
-### 💰 Beneficios Económicos
-- **ROI Energético**: 280% ROI en inversiones de eficiencia energética
-- **Costos Operacionales**: -18% reducción en costos operacionales
-- **Incentivos Verdes**: €45,000 en incentivos gubernamentales obtenidos
-- **Brand Value**: +15% incremento en valor de marca por sustentabilidad
-
-### 🌱 Beneficios Ambientales
-- **Emisiones Reducidas**: 450 ton CO2/año evitadas
-- **Energía Renovable**: 40% del consumo de fuentes renovables
-- **Certificaciones**: Green Key Gold y LEED Platinum candidato
-- **Biodiversidad**: Programas de conservación local implementados
-
-### 📈 Beneficios Tecnológicos
-- **AI Implementation**: Framework de AI sustentable replicable
-- **IoT Network**: Red de 150+ sensores ambientales
-- **Data Platform**: Plataforma unificada de datos ambientales
-- **Predictive Capabilities**: Modelos predictivos con 95%+ precisión
-
----
-
-## 🎯 Metodología Hitachi Vantara
-
-### 1. 🔬 Data-Driven Sustainability
-- **Sensor Integration**: Integración de sensores IoT ambientales
-- **Real-time Processing**: Procesamiento en tiempo real de datos
-- **AI Model Development**: Desarrollo de modelos AI específicos
-- **Continuous Learning**: Aprendizaje continuo y mejora de modelos
-
-### 2. 🌍 Holistic Environmental Approach
-- **Lifecycle Assessment**: Análisis de ciclo de vida completo
-- **Stakeholder Integration**: Integración de todos los stakeholders
-- **Regulatory Compliance**: Cumplimiento de regulaciones ambientales
-- **Best Practices**: Implementación de mejores prácticas globales
-
-### 3. 📊 Advanced Analytics Framework
-- **Predictive Analytics**: Modelos predictivos para optimización
-- **Prescriptive Analytics**: Recomendaciones automáticas de acciones
-- **Real-time Monitoring**: Monitoreo continuo de métricas ambientales
-- **Automated Reporting**: Reportes automáticos de sustentabilidad
-
----
-
-## 🌟 Características Innovadoras
-
-### 🤖 AI-First Approach
-- Modelos de machine learning para cada aspecto de sustentabilidad
-- Automatización inteligente de sistemas ambientales
-- Predicción y prevención de problemas ambientales
-
-### 🌐 IoT Integration
-- Red completa de sensores ambientales
-- Monitoreo en tiempo real de múltiples variables
-- Integración con sistemas de gestión hotelera
-
-### 📱 Digital Twin Technology
-- Gemelo digital del hotel para simulaciones ambientales
-- Modelado predictivo de impacto ambiental
-- Optimización virtual antes de implementación física
-
-### 🔄 Circular Economy Principles
-- Análisis de flujos de materiales y residuos
-- Optimización de recursos en economía circular
-- Métricas de circularidad y eficiencia
-
----
-
-## 🏆 Reconocimientos y Certificaciones
-
-### 🥇 Awards & Recognition
-- **Hitachi Innovation Award 2023**: Mejor proyecto de sustentabilidad
-- **Green Tech Excellence**: Reconocimiento por innovación verde
-- **AI for Good**: Mención especial en AI para sustentabilidad
-
-### 📜 Certifications Achieved
-- **ISO 14001**: Sistema de gestión ambiental
-- **Green Key Gold**: Certificación de turismo sostenible
-- **Carbon Trust Standard**: Verificación de reducción de carbono
-
----
-
-<div align="center">
-
-### 🌱 *"Innovando para un futuro sostenible a través de la inteligencia artificial y el análisis de datos"*
-
-[🤖 Ver Modelos AI](./models/) | [📊 Analytics Completo](./notebooks/) | [🌍 Impact Report](./reports/)
-
-</div>
+Este proyecto representa la intersección entre tecnología avanzada y responsabilidad ambiental, demostrando cómo el análisis de datos puede ser una herramienta poderosa para la sustentabilidad empresarial.
 
